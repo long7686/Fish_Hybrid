@@ -1,0 +1,120 @@
+{
+"skeleton": { "hash": "gSWjNhzJ2f8FdofuLtM6ygv27AA", "spine": "3.7.94", "width": 288.61, "height": 288.61 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "All", "parent": "root" },
+	{ "name": "Round", "parent": "All" },
+	{ "name": "Round2", "parent": "All" },
+	{ "name": "Round3", "parent": "All" }
+],
+"slots": [
+	{ "name": "round", "bone": "Round", "attachment": "round", "blend": "additive" },
+	{ "name": "round2", "bone": "Round2", "blend": "additive" },
+	{ "name": "round3", "bone": "Round3", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"round": {
+			"round": { "rotation": -0.12, "width": 288, "height": 288 }
+		},
+		"round2": {
+			"round": { "width": 288, "height": 288 }
+		},
+		"round3": {
+			"round": { "width": 288, "height": 288 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"round": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2667, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"round2": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.6, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.3333, "name": "round" }
+				]
+			},
+			"round3": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffff00" },
+					{ "time": 0.9333, "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.6667, "name": "round" }
+				]
+			}
+		},
+		"bones": {
+			"Round": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.083, 0.11, 0.543, 1 ]
+					},
+					{ "time": 1, "x": 11.077, "y": 11.077 }
+				]
+			},
+			"Round2": {
+				"scale": [
+					{
+						"time": 0.3333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.083, 0.11, 0.543, 1 ]
+					},
+					{ "time": 1.3333, "x": 11.077, "y": 11.077 }
+				]
+			},
+			"Round3": {
+				"scale": [
+					{
+						"time": 0.6667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.083, 0.11, 0.543, 1 ]
+					},
+					{ "time": 1.6667, "x": 11.077, "y": 11.077 }
+				]
+			}
+		}
+	},
+	"onetime": {
+		"slots": {
+			"round": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2667, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"Round": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.083, 0.11, 0.543, 1 ]
+					},
+					{ "time": 1, "x": 11.077, "y": 11.077 }
+				]
+			}
+		}
+	}
+}
+}

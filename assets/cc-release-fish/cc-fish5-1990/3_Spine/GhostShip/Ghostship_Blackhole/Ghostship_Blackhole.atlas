@@ -1,0 +1,27 @@
+
+Ghostship_Blackhole.png
+size: 765,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_1458
+  rotate: false
+  xy: 2, 2
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+ef_206
+  rotate: false
+  xy: 535, 61
+  size: 228, 229
+  orig: 256, 256
+  offset: 14, 14
+  index: -1
+ef_2066
+  rotate: false
+  xy: 292, 46
+  size: 241, 244
+  orig: 256, 256
+  offset: 15, 4
+  index: -1

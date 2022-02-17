@@ -1,0 +1,69 @@
+
+nohu.png
+size: 1118,597
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+No hu new 1-assets/full
+  rotate: true
+  xy: 2, 2
+  size: 593, 642
+  orig: 593, 642
+  offset: 0, 0
+  index: -1
+No hu new 1-assets/light
+  rotate: false
+  xy: 646, 49
+  size: 219, 148
+  orig: 219, 148
+  offset: 0, 0
+  index: -1
+No hu new 1-assets/light3
+  rotate: false
+  xy: 867, 2
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+No hu new 1-assets/text
+  rotate: true
+  xy: 646, 199
+  size: 396, 208
+  orig: 396, 208
+  offset: 0, 0
+  index: -1
+No-hu-new-10000
+  rotate: true
+  xy: 867, 88
+  size: 188, 128
+  orig: 188, 128
+  offset: 0, 0
+  index: -1
+No-hu-new-10001
+  rotate: true
+  xy: 856, 409
+  size: 186, 129
+  orig: 186, 129
+  offset: 0, 0
+  index: -1
+No-hu-new-10002
+  rotate: false
+  xy: 856, 278
+  size: 184, 129
+  orig: 184, 129
+  offset: 0, 0
+  index: -1
+No-hu-new-10003
+  rotate: true
+  xy: 987, 411
+  size: 184, 127
+  orig: 184, 127
+  offset: 0, 0
+  index: -1
+No-hu-new-10004
+  rotate: true
+  xy: 997, 93
+  size: 183, 119
+  orig: 183, 119
+  offset: 0, 0
+  index: -1

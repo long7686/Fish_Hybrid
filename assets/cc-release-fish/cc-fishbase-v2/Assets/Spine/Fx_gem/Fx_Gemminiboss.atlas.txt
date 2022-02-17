@@ -1,0 +1,20 @@
+
+Fx_Gemminiboss.png
+size: 477,451
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eff
+  rotate: false
+  xy: 2, 2
+  size: 447, 447
+  orig: 447, 447
+  offset: 0, 0
+  index: -1
+Sao
+  rotate: false
+  xy: 451, 423
+  size: 24, 26
+  orig: 27, 26
+  offset: 1, 0
+  index: -1

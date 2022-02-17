@@ -1,0 +1,86 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ElectroGun",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.18333333333333332,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e8a47764-2b87-4185-855e-e57af7da4a9d"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "0b3ff146-29ab-46cb-a6f6-b7c923b7241a"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "18aef397-083d-4449-983c-a741d5aa3cc6"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "51f25f98-354b-4ef5-b2f6-16ea39226585"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "e0774adb-db07-44e7-afe4-cee1b51b2186"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "398f606b-3751-4619-8039-89cd07b8d83c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.03333333333333333,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.06666666666666667,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.1,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.13333333333333333,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.16666666666666666,
+      "func": "",
+      "params": []
+    }
+  ]
+}

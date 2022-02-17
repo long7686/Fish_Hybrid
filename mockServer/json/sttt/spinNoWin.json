@@ -1,0 +1,108 @@
+{
+  "wallet": "10000",
+
+  "gameId": "9999",
+  "versionFrom": "0",
+  "versionTo": "1",
+  "miniGameMatrix": [
+    "0.0",
+    "0.0",
+    "0.0",
+    "0.0",
+    "0.0",
+    "0.0",
+    "0.0",
+    "0.0",
+    "0.0",
+    "0.0",
+    "0.0",
+    "0.0",
+    "0.0",
+    "0.0",
+    "0.0"
+  ],
+  "matrix": [
+    "A",
+    "2",
+    "7",
+    "J",
+    "6",
+    "J",
+    "2",
+    "10",
+    "7",
+    "2",
+    "J",
+    "4",
+    "10",
+    "5",
+    "J"
+  ],
+  "betLines": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "payLines": [
+
+  ],
+  "id": "25",
+  "userId": "c56fde20-366b-49d5-b918-ca516e1ef033",
+  "commandId": "e8429628-2f0c-498e-b76b-d946bdf247f6",
+  "version": 1,
+  "winAmount": 0,
+  "jackpotId": "STTT_JACKPOT_5",
+  "freeSpin": 0,
+  "miniGameRemain": 0,
+  "betValuePerLine": 5,
+  "lastEvent": {
+    "normalSpinResult": {
+      "matrix": [
+        "8",
+        "K",
+        "10",
+        "K",
+        "7",
+        "3",
+        "K",
+        "K",
+        "K",
+        "3",
+        "10",
+        "K",
+        "3",
+        "K",
+        "J"
+      ],
+      "payLines": [
+      ],
+      "payLineJackPot": [
+
+      ],
+      "winAmount": 0,
+      "jackpot": 0,
+      "freeSpin": 0,
+      "miniGameRemain": 0
+    },
+    "freeSpinResult": null,
+    "miniGameResult": 0
+  },
+  "isFinished": true
+}

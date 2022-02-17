@@ -1,0 +1,13 @@
+
+Scan_Miniboss.png
+size: 277,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+round
+  rotate: false
+  xy: 2, 2
+  size: 273, 273
+  orig: 288, 288
+  offset: 8, 7
+  index: -1

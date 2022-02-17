@@ -1,0 +1,97 @@
+
+Fx_Explosion.png
+size: 555,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spark Explosion/Spark Explosion 01
+  rotate: false
+  xy: 2, 83
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+Spark Explosion/Spark Explosion 02
+  rotate: true
+  xy: 372, 245
+  size: 153, 162
+  orig: 221, 221
+  offset: 35, 34
+  index: -1
+Spark Explosion/Spark Explosion 03
+  rotate: false
+  xy: 319, 96
+  size: 163, 147
+  orig: 221, 221
+  offset: 44, 39
+  index: -1
+Spark Explosion/Spark Explosion 04
+  rotate: false
+  xy: 484, 109
+  size: 69, 65
+  orig: 315, 315
+  offset: 126, 107
+  index: -1
+Spark Explosion/Spark Explosion 05
+  rotate: false
+  xy: 484, 176
+  size: 68, 67
+  orig: 315, 315
+  offset: 127, 106
+  index: -1
+Spark Explosion/Spark Explosion 06
+  rotate: true
+  xy: 203, 3
+  size: 78, 73
+  orig: 315, 315
+  offset: 122, 98
+  index: -1
+Spark Explosion/Spark Explosion 07
+  rotate: false
+  xy: 113, 3
+  size: 88, 78
+  orig: 315, 315
+  offset: 117, 91
+  index: -1
+Spark Explosion/Spark Explosion 08
+  rotate: false
+  xy: 372, 2
+  size: 101, 92
+  orig: 315, 315
+  offset: 110, 77
+  index: -1
+Spark Explosion/Spark Explosion 09
+  rotate: false
+  xy: 2, 15
+  size: 109, 66
+  orig: 315, 315
+  offset: 108, 99
+  index: -1
+Spark Explosion/Spark Explosion 10
+  rotate: false
+  xy: 278, 23
+  size: 92, 58
+  orig: 315, 315
+  offset: 128, 92
+  index: -1
+Spark Explosion/Spark Explosion 11
+  rotate: true
+  xy: 475, 2
+  size: 92, 56
+  orig: 315, 315
+  offset: 128, 92
+  index: -1
+Spark Explosion/Spark Explosion 12
+  rotate: true
+  xy: 319, 366
+  size: 32, 39
+  orig: 315, 315
+  offset: 139, 85
+  index: -1
+Spark Explosion/Spark Explosion 13
+  rotate: true
+  xy: 319, 340
+  size: 24, 29
+  orig: 315, 315
+  offset: 137, 92
+  index: -1

@@ -1,0 +1,41 @@
+
+ExplosionHit.png
+size: 363,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Halo
+  rotate: true
+  xy: 2, 2
+  size: 107, 216
+  orig: 107, 216
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 220, 11
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+PressureThick
+  rotate: false
+  xy: 2, 111
+  size: 171, 171
+  orig: 171, 171
+  offset: 0, 0
+  index: -1
+PressureThin
+  rotate: false
+  xy: 175, 122
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+Ray
+  rotate: false
+  xy: 337, 113
+  size: 24, 169
+  orig: 24, 169
+  offset: 0, 0
+  index: -1

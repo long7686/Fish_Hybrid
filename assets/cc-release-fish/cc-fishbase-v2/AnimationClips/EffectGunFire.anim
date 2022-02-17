@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "EffectGunFire",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.43333333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.05,
+          "value": [
+            -15,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.43333333333333335,
+          "value": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

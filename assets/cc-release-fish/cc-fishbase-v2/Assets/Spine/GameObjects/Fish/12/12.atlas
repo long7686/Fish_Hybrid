@@ -1,0 +1,41 @@
+
+12.png
+size: 422,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caho
+  rotate: true
+  xy: 2, 2
+  size: 129, 226
+  orig: 129, 226
+  offset: 0, 0
+  index: -1
+caho2
+  rotate: true
+  xy: 322, 4
+  size: 127, 51
+  orig: 127, 51
+  offset: 0, 0
+  index: -1
+caho3
+  rotate: false
+  xy: 375, 79
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+caho4
+  rotate: false
+  xy: 375, 25
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+shado
+  rotate: true
+  xy: 230, 7
+  size: 124, 90
+  orig: 124, 90
+  offset: 0, 0
+  index: -1

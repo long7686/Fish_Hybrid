@@ -1,0 +1,300 @@
+
+DragonJackpotBig.png
+size: 977,741
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: true
+  xy: 910, 400
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+Ball 1
+  rotate: false
+  xy: 844, 104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Ball 2
+  rotate: false
+  xy: 729, 32
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Ball 3
+  rotate: false
+  xy: 910, 334
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+Ball 4
+  rotate: true
+  xy: 844, 170
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+Ball 5
+  rotate: false
+  xy: 910, 173
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+Ball 6
+  rotate: false
+  xy: 910, 107
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+Ball 7
+  rotate: false
+  xy: 910, 41
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+Beard Above
+  rotate: true
+  xy: 905, 239
+  size: 93, 45
+  orig: 93, 45
+  offset: 0, 0
+  index: -1
+Beard Below
+  rotate: false
+  xy: 762, 138
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+Body 1
+  rotate: false
+  xy: 614, 212
+  size: 126, 194
+  orig: 126, 194
+  offset: 0, 0
+  index: -1
+Body 2
+  rotate: true
+  xy: 311, 133
+  size: 252, 169
+  orig: 252, 169
+  offset: 0, 0
+  index: -1
+Body 3
+  rotate: true
+  xy: 482, 208
+  size: 213, 130
+  orig: 213, 130
+  offset: 0, 0
+  index: -1
+Dust
+  rotate: false
+  xy: 2, 112
+  size: 307, 273
+  orig: 307, 273
+  offset: 0, 0
+  index: -1
+Eyebrown
+  rotate: false
+  xy: 742, 98
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 230, 3
+  size: 116, 107
+  orig: 116, 107
+  offset: 0, 0
+  index: -1
+Hair Center 1
+  rotate: false
+  xy: 742, 216
+  size: 87, 190
+  orig: 87, 190
+  offset: 0, 0
+  index: -1
+Hair Center 2
+  rotate: false
+  xy: 594, 54
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+Hair Center 3
+  rotate: false
+  xy: 866, 354
+  size: 42, 115
+  orig: 42, 115
+  offset: 0, 0
+  index: -1
+Hair Center 4
+  rotate: true
+  xy: 631, 78
+  size: 35, 96
+  orig: 35, 96
+  offset: 0, 0
+  index: -1
+Hair Left 0
+  rotate: true
+  xy: 482, 132
+  size: 74, 155
+  orig: 74, 155
+  offset: 0, 0
+  index: -1
+Hair Left 1
+  rotate: false
+  xy: 456, 3
+  size: 150, 48
+  orig: 150, 48
+  offset: 0, 0
+  index: -1
+Hair Left 2
+  rotate: false
+  xy: 863, 471
+  size: 103, 40
+  orig: 103, 40
+  offset: 0, 0
+  index: -1
+Hair Left 3
+  rotate: false
+  xy: 348, 3
+  size: 68, 21
+  orig: 68, 21
+  offset: 0, 0
+  index: -1
+Hair Left 4
+  rotate: false
+  xy: 631, 52
+  size: 75, 24
+  orig: 75, 24
+  offset: 0, 0
+  index: -1
+Hair Right 0
+  rotate: true
+  xy: 456, 53
+  size: 77, 136
+  orig: 77, 136
+  offset: 0, 0
+  index: -1
+Hair Right 1
+  rotate: false
+  xy: 639, 151
+  size: 121, 59
+  orig: 121, 59
+  offset: 0, 0
+  index: -1
+Hair Right 2
+  rotate: true
+  xy: 866, 237
+  size: 115, 37
+  orig: 115, 37
+  offset: 0, 0
+  index: -1
+Hair Right 3
+  rotate: false
+  xy: 639, 115
+  size: 101, 34
+  orig: 101, 34
+  offset: 0, 0
+  index: -1
+Hair Right 4
+  rotate: false
+  xy: 393, 391
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: true
+  xy: 608, 2
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+Horn Left
+  rotate: false
+  xy: 831, 245
+  size: 33, 203
+  orig: 33, 203
+  offset: 0, 0
+  index: -1
+Horn Right
+  rotate: true
+  xy: 615, 408
+  size: 40, 204
+  orig: 40, 204
+  offset: 0, 0
+  index: -1
+Island Left
+  rotate: false
+  xy: 393, 423
+  size: 220, 316
+  orig: 220, 316
+  offset: 0, 0
+  index: -1
+Island Right
+  rotate: false
+  xy: 615, 450
+  size: 246, 289
+  orig: 246, 289
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 835, 47
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 387
+  size: 389, 352
+  orig: 389, 352
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 663, 3
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+San Hu Rong Than Bright Text
+  rotate: false
+  xy: 2, 7
+  size: 226, 103
+  orig: 226, 103
+  offset: 0, 0
+  index: -1
+San Hu Rong Than Text
+  rotate: true
+  xy: 863, 513
+  size: 226, 103
+  orig: 226, 103
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 348, 26
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+Thigh
+  rotate: false
+  xy: 795, 35
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1

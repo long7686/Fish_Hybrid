@@ -1,0 +1,48 @@
+
+17.png
+size: 452,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow_CaLua
+  rotate: false
+  xy: 190, 94
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+calua
+  rotate: false
+  xy: 2, 2
+  size: 186, 223
+  orig: 186, 223
+  offset: 0, 0
+  index: -1
+calua2
+  rotate: true
+  xy: 325, 89
+  size: 136, 125
+  orig: 136, 125
+  offset: 0, 0
+  index: -1
+calua3
+  rotate: false
+  xy: 264, 35
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+calua4
+  rotate: true
+  xy: 315, 38
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 190, 19
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1

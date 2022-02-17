@@ -1,0 +1,167 @@
+
+fxLaser.png
+size: 497,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aura
+  rotate: false
+  xy: 362, 34
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+Beam
+  rotate: false
+  xy: 2, 146
+  size: 80, 308
+  orig: 80, 308
+  offset: 0, 0
+  index: -1
+Core
+  rotate: false
+  xy: 110, 202
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+Electric
+  rotate: false
+  xy: 384, 110
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+Flash
+  rotate: false
+  xy: 132, 63
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+Particle Blue
+  rotate: false
+  xy: 376, 198
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+Particle Violet
+  rotate: false
+  xy: 110, 323
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+Ray
+  rotate: false
+  xy: 84, 165
+  size: 24, 289
+  orig: 24, 289
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 01
+  rotate: false
+  xy: 381, 338
+  size: 114, 56
+  orig: 114, 56
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 02
+  rotate: false
+  xy: 132, 2
+  size: 107, 59
+  orig: 107, 59
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 03
+  rotate: false
+  xy: 381, 287
+  size: 113, 49
+  orig: 113, 49
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 04
+  rotate: true
+  xy: 2, 15
+  size: 129, 74
+  orig: 129, 74
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 05
+  rotate: false
+  xy: 241, 31
+  size: 118, 52
+  orig: 118, 52
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 06
+  rotate: false
+  xy: 243, 380
+  size: 129, 74
+  orig: 129, 74
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 07
+  rotate: false
+  xy: 231, 243
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 08
+  rotate: false
+  xy: 374, 396
+  size: 114, 58
+  orig: 114, 58
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 09
+  rotate: false
+  xy: 243, 320
+  size: 136, 58
+  orig: 136, 58
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 10
+  rotate: false
+  xy: 231, 189
+  size: 143, 52
+  orig: 143, 52
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 11
+  rotate: true
+  xy: 78, 3
+  size: 141, 52
+  orig: 141, 52
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 12
+  rotate: false
+  xy: 231, 135
+  size: 151, 52
+  orig: 151, 52
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 13
+  rotate: false
+  xy: 227, 85
+  size: 133, 48
+  orig: 133, 48
+  offset: 0, 0
+  index: -1
+Spark Shot/Spark Shot 14
+  rotate: false
+  xy: 110, 158
+  size: 119, 42
+  orig: 119, 42
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 440, 56
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1

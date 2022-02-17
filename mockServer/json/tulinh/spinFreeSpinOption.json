@@ -1,0 +1,72 @@
+{
+    "lastEvent": {
+      "normalGameResult": {
+        "freeSpinOption": [1,2],
+        "scatter": [
+          "1;0.88",
+          "7;2",
+          "10;2",
+          "12;2",
+          "14;0.88",
+          "15;2"
+        ],
+        "matrix": [
+          "A",
+          "8",
+          "7",
+          "6",
+          "7",
+          "8",
+          "A",
+          "2",
+          "2",
+          "A",
+          "2",
+          "A",
+          "2",
+          "A",
+          "A"
+        ],
+        "winAmount": 0,
+        "payLines": [
+        ]
+      }
+    },
+    "id": "2ab4bb57-bb8a-4077-96a1-9f2279dd551b",
+    "userId": "1f1d69a8-4de4-4ecf-8038-175c259a1796",
+    "serviceId": "9991",
+    "commandId": "398314ee-6ec7-4bb2-a1fa-00203e9b6c39",
+    "version": 1,
+    "betId": 20,
+    "winAmount": 0,
+    "normalGameMatrix": [
+      "A",
+      "8",
+      "7",
+      "6",
+      "7",
+      "8",
+      "A",
+      "2",
+      "2",
+      "A",
+      "2",
+      "A",
+      "2",
+      "A",
+      "A"
+    ],
+    "normalGameTableFormat": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "normalGamePayLines": [
+    ],
+    "normalGameWinAmount": 0,
+    "isFinished": true,
+    "pvsReceivedTime": 1567073671286,
+    "stateType": "9991"
+  }

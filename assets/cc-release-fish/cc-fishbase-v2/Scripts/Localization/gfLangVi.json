@@ -1,0 +1,126 @@
+{
+    "txtNotify": {
+        "big_fish": "{'obj1':{'type':'label', 'str':'%s ', 'color':'#FF0000'}, 'obj2':{'type':'label', 'color':'#FFFFFF', 'str':'bắt cá '}, 'obj3':{'type':'img', 'spriteFrame':'%s'}, 'obj4':{'type':'label', 'color':'#FFFF00', 'str':' (x%s) '}, 'obj5':{'type':'label', 'color':'#FFFFFF', 'str':'thắng '}, 'obj6':{'type':'label', 'color':'#FFFF00', 'str':'%s'}}",
+        "special_skill": {
+            "1": "{'obj1':{'type':'label', 'str':'%s ', 'color':'#FF0000'}, 'obj2':{'type':'label', 'color':'#FFFFFF', 'str':'sử dụng súng laser thắng '}, 'obj3':{'type':'label', 'color':'#FFFF00', 'str':'%s'}}",
+            "4": "{'obj1':{'type':'label', 'str':'%s ', 'color':'#FF0000'}, 'obj2':{'type':'label', 'color':'#FFFFFF', 'str':'sử dụng súng khoan thắng '}, 'obj3':{'type':'label', 'color':'#FFFF00', 'str':'%s'}}",
+            "5": "{'obj1':{'type':'label', 'str':'%s ', 'color':'#FF0000'}, 'obj2':{'type':'label', 'color':'#FFFFFF', 'str':'bắn nổ ngư lôi thắng '}, 'obj3':{'type':'label', 'color':'#FFFF00', 'str':'%s'}}"
+        },
+        "dragon_balls": "{'obj1':{'type':'label', 'str':'%s ', 'color':'#FF0000'}, 'obj2':{'type':'label', 'color':'#FFFFFF', 'str':'bắn rớt '},'obj3':{'type':'label', 'color':'#00FF00', 'str':'%s '}, 'obj4':{'type':'label', 'color':'#FFFFFF', 'str':'viên '}, 'obj5':{'type':'img', 'spriteFrame':'B1'}, 'obj6':{'type':'label', 'color':'#FFFFFF', 'str':' thắng '}, 'obj7':{'type':'label', 'color':'#FFFF00', 'str':'%s'}}",
+        "message": "{'obj1':{'type':'label', 'str':'%s ', 'color':'#FF0000'}}",
+        "kill_miniboss": "{'obj1':{'type':'label', 'str':'%s ', 'color':'#FF0000'}, 'obj2':{'type':'label', 'color':'#FFFFFF', 'str':'đã bắn hạ '}, 'obj3':{'type':'img', 'spriteFrame':'%s'}, 'obj4':{'type':'label', 'color':'#FFFFFF', 'str':' nhận thưởng cực lớn '}, 'obj5':{'type':'label', 'color':'#FFFF00', 'str':'%s'}}",
+        "drop_item_miniboss": "{'obj1':{'type':'label', 'str':'%s ', 'color':'#FF0000'}, 'obj2':{'type':'label', 'color':'#FFFFFF', 'str':'công kích '}, 'obj3':{'type':'img', 'spriteFrame':'%s'}, 'obj4':{'type':'label', 'color':'#FFFFFF', 'str':'rơi '}, 'obj5':{'type':'img', 'spriteFrame':'MB%s'}, 'obj6':{'type':'label', 'color':'#FFFFFF', 'str':'thắng '}, 'obj7':{'type':'label', 'color':'#FFFF00', 'str':'%s'}}"
+    },
+    "txtJPNotify": "{'obj1':{'type':'label', 'color':'#FFFFFF', 'str':'Chúc Mừng '}, 'obj2':{'type':'label', 'color':'#FFFF00', 'str':'%s'}, 'obj3':{'type':'label', 'color':'#FFFFFF', 'str':'nổ hũ thắng '}, 'obj4':{'type':'label', 'color':'#FFFFFF', 'str':'%s'}}",
+    "txtEvent": "{'obj1':{'type':'label', 'color':'#FFFFFF', 'str':'Chúc Mừng '}, 'obj2':{'type':'label', 'color':'#FFFF00', 'str':'%s'}, 'obj3':{'type':'label', 'color':'#FFFFFF', 'str':'Đoạt Cúp EURO'}, 'obj4':{'type':'label', 'color':'#FFFFFF', 'str':'%s'}}",
+    "txtCustomNotify": {
+        "NotEnoughCoin"         : "Tài khoản không đủ để tiếp tục.\nVui lòng nạp thêm hoặc\nđợi nhận thưởng Ngọc Rồng để săn cá.",
+        "NotEnoughCoinAutoBot"  : "Bạn không đủ tiền !\nVui lòng chọn lại mức đạn.",
+        "NotSelectFish"         : "Bạn chưa chọn cá nào!\n Vui lòng kiểm tra lại.",
+        "ExitRoom"              : "Quay lại màn hình chính?"
+    },
+    "txtGameMode": {
+        "1" : "Khám Phá Đại Dương.",
+        "3"    : "Săn Hũ Rồng Thần."
+    },
+    "MessagesSystem": {
+        "101": "User đã vào game!",
+        "102": "Bạn không đủ tiền để vào bàn!",
+        "103": "Không tìm thấy loại phòng",
+        "104": "Bạn đã đăng nhập\nở một thiết bị khác",
+        "105": "Không thể kết nối tới máy chủ!",
+        "106": "Số dư hiện tại không khả dụng,\nvui lòng nạp thêm.",
+        "201": "User đã vào bàn",
+        "202": "Nick đang chơi game.\nVui lòng đăng nhập lại",
+        "203": "Phòng đã đầy vui lòng quay lại sau!",
+        "204": "Số dư hiện tại không khả dụng,\nvui lòng nạp thêm",
+        "205": "Tài khoản đã hết tiền,\nvui lòng nạp thêm.",
+        "206": "Bạn đã đăng nhập\nở một thiết bị khác",
+        "207": "Bạn bị mời ra khỏi bàn\ndo không có thao tác trong\nmột khoảng thời gian.",
+        "208": "Số dư không đủ,\nbạn có muốn nạp thêm ?",
+        "209": "Bạn đang sở hữu súng Laser \ntại phòng xxx\nVui lòng sử dụng\ntrước khi đổi phòng.",
+        "300": "Thao tác không thành công.",
+        "503": "Hệ thống đang bảo trì,\nvui lòng quay lại sau."
+    },
+    "NETWORK_MESSAGE": {
+        "NETWORK_POOR"          : "Bị mất kết nối tới máy chủ \nĐang kết nối lại.",
+        "NETWORK_DIE"           : "Không thể kết nối tới máy chủ!",
+        "AUTHEN_FAIL"           : "Xác thực tài khoản thất bại.",
+        "LOGIN_IN_OTHER_DEVICE" : "Bạn đã đăng nhập \nở một thiết bị khác.",
+        "EXIT"                  : "Thoát"
+    },
+    "MessagesChat": {
+        "20": "Đợi ăn thịt rồng",
+        "21": "Bẻ lái bắn gái kìa",
+        "22": "VL hết đạn mãi không chết",
+        "23": "Chẳng cần mồi ngon chỉ cần súng ngon",
+        "24": "Hết đạn cũng phải hạ được nó!!",
+        "25": "Máu trâu,bắn lâu cũng chết :))",
+        "26": "Dồn đạn vào Rồng đi anh em!",
+        "27": "Nhìn bắn mà tao tức!",
+        "28": "Bắn phát nổ luôn. Cảm ơn ông bạn",
+        "29": "Vợ bảo bắn cá to có tiền",
+        "30": "ĐM mãi mới chết 1 con",
+        "31": "Thắng bại tại kĩ năng",
+        "32": "Cá thành tinh hết rồi. Bắn gãy súng",
+        "33": "Anh em nhắm vào Ngư Lôi mà bắn",
+        "34": "Tiên cá là của anh.",
+        "35": "Rồng lộn xuất hiện :)))",
+        "36": "Má! thằng kia toàn ăn ké.",
+        "37": "Đoàn kết chia sẽ cái hũ. kaka",
+        "38": "Haha. Cho em xin con này nhé bác!"
+    },
+    "popupTitle": {
+        "jackpotHistory": "LỊCH SỬ HŨ RỒNG ",
+        "infoHSC"       : "HỆ SỐ CÁ ",
+        "infoTNDB"      : "TÍNH NĂNG ĐẶC BIỆT ",
+        "infoKN"        : "KỸ NĂNG ",
+        "infoHuRong"    : "HŨ RỒNG ",
+        "setting"       : "CÀI ĐẶT ",
+        "notice"        : "THÔNG BÁO ",
+        "autoBot"       : "CẮM MÁY ",
+        "tutorial"      : "HƯỚNG DẪN ",
+        "miniboss"      : "TRẤN HẢI THẦN "
+    },
+    "buttonName": {
+        "btnOK"         : "ĐỒNG Ý",
+        "btnLSH"        : "LỊCH SỬ HŨ",
+        "btnAll"        : "TẤT CẢ",
+        "btnUnchecked"  : "BỎ CHỌN",
+        "btnStart"      : "BẮT ĐẦU",
+        "btnEnd"        : "KẾT THÚC"
+    },
+    "dragonTip": {
+        "dragonTip0": "Nhấn giữ bệ ngọc để\nxem thông tin trả thưởng",
+        "dragonTip1": "Đạn càng cao, \ntỷ lệ rớt ngọc càng lớn",
+        "dragonTip2": "Ngọc càng nhiều, \nphần thưởng càng lớn",
+        "dragonTip3": "Thu thập đủ 7 viên ngọc rồng, \nnhận điều ước Jackpot"
+    },
+    "txtDTGameLayer": {
+        "waiting"       : "ĐANG CHỜ",
+        "NotifyLockFish": "Chọn cá để ngắm bắn."
+    },
+    "txtPopup": {
+        "txtMucTieu"         : "MỤC TIÊU:",
+        "txtMucTieuDB"       : "MỤC TIÊU ĐẶC BIỆT",
+        "txtThoiLuong"       : "THỜI LƯỢNG",
+        "txtThoiGianCon"     : "THỜI GIAN CÒN",
+        "txtLoaiDan"         : "LOẠI ĐẠN",
+        "txtPageIndex"       : "Trang: ",
+        "txtNoJackpotHistory": "Chưa có hũ nổ"
+    },
+    "txtDragonTooltip": {
+        "txtTitle"   : "Bắn rồng, Lượm ngọc, Nhận phần thưởng hấp dẫn.",
+        "txtNoHuRong": "NỔ HŨ RỒNG",
+        "txtNote"    : "Lưu ý: Đạn càng cao, tỷ lệ rớt ngọc càng lớn."
+    },
+    "txtAutoBot" : {
+        "txtInsufficientGold" : "Bạn không đủ tiền !\nVui lòng chọn lại mức đạn.",
+        "txtNotChoosingFish" : "Bạn chưa chọn cá nào!\n Vui lòng kiểm tra lại."
+    },
+
+    "TXT_EVENT": {
+        "COMING": "SẮP BẮT ĐẦU",
+        "END": "ĐÃ KẾT THÚC"
+    }
+}

@@ -1,0 +1,27 @@
+
+Goldeffects.png
+size: 29,27
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gdrop
+  rotate: false
+  xy: 18, 16
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+gem1
+  rotate: false
+  xy: 2, 2
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+gem2
+  rotate: false
+  xy: 2, 13
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1

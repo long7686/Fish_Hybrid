@@ -1,0 +1,230 @@
+
+WarningDragon.png
+size: 497,465
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: true
+  xy: 130, 55
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+Ball 3
+  rotate: true
+  xy: 396, 196
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+Ball 4
+  rotate: false
+  xy: 427, 99
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Ball 6
+  rotate: false
+  xy: 433, 179
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Ball 7
+  rotate: false
+  xy: 433, 179
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Beard
+  rotate: true
+  xy: 484, 356
+  size: 107, 11
+  orig: 107, 11
+  offset: 0, 0
+  index: -1
+Board
+  rotate: false
+  xy: 2, 383
+  size: 396, 80
+  orig: 396, 80
+  offset: 0, 0
+  index: -1
+Board Edge Left
+  rotate: true
+  xy: 317, 198
+  size: 38, 77
+  orig: 38, 77
+  offset: 0, 0
+  index: -1
+Board Edge Right
+  rotate: false
+  xy: 354, 119
+  size: 38, 77
+  orig: 38, 77
+  offset: 0, 0
+  index: -1
+Body 1
+  rotate: false
+  xy: 400, 390
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+Body 2
+  rotate: true
+  xy: 398, 229
+  size: 152, 32
+  orig: 152, 32
+  offset: 0, 0
+  index: -1
+Body 3
+  rotate: true
+  xy: 2, 8
+  size: 182, 75
+  orig: 182, 75
+  offset: 0, 0
+  index: -1
+Electric 1
+  rotate: false
+  xy: 141, 265
+  size: 174, 57
+  orig: 174, 57
+  offset: 0, 0
+  index: -1
+Electric 2
+  rotate: true
+  xy: 394, 149
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+Electric 3
+  rotate: false
+  xy: 141, 192
+  size: 133, 71
+  orig: 133, 71
+  offset: 0, 0
+  index: -1
+Electric 4
+  rotate: true
+  xy: 313, 115
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Electric Run 2/Electric Run 01
+  rotate: true
+  xy: 363, 62
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+Electric Run 2/Electric Run 03
+  rotate: true
+  xy: 313, 56
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+Electric Run 2/Electric Run 05
+  rotate: true
+  xy: 79, 2
+  size: 84, 49
+  orig: 84, 49
+  offset: 0, 0
+  index: -1
+Electric Run 2/Electric Run 08
+  rotate: false
+  xy: 130, 2
+  size: 137, 51
+  orig: 137, 51
+  offset: 0, 0
+  index: -1
+Electric Run 2/Electric Run 10
+  rotate: true
+  xy: 344, 238
+  size: 143, 52
+  orig: 143, 52
+  offset: 0, 0
+  index: -1
+Electric Run 2/Electric Run 12
+  rotate: false
+  xy: 269, 2
+  size: 148, 52
+  orig: 148, 52
+  offset: 0, 0
+  index: -1
+Electric Run 2/Electric Run 28
+  rotate: true
+  xy: 203, 55
+  size: 135, 53
+  orig: 135, 53
+  offset: 0, 0
+  index: -1
+Electric Run 2/Electric Run 30
+  rotate: true
+  xy: 258, 56
+  size: 134, 53
+  orig: 134, 53
+  offset: 0, 0
+  index: -1
+Electric Run 2/Electric Run 36
+  rotate: true
+  xy: 432, 284
+  size: 104, 50
+  orig: 104, 50
+  offset: 0, 0
+  index: -1
+Electric Run 2/Electric Run 38
+  rotate: true
+  xy: 432, 223
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 79, 88
+  size: 122, 102
+  orig: 122, 102
+  offset: 0, 0
+  index: -1
+Forearm
+  rotate: false
+  xy: 276, 197
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 394, 121
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 433, 139
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 2, 192
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 2, 324
+  size: 340, 57
+  orig: 340, 57
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+Explosion.png
+size: 458,554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Explosion 01
+  rotate: false
+  xy: 344, 118
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+Explosion 03
+  rotate: false
+  xy: 98, 4
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+Explosion 05
+  rotate: false
+  xy: 2, 2
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+Explosion 07
+  rotate: false
+  xy: 2, 440
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Explosion 09
+  rotate: false
+  xy: 2, 326
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Explosion 11
+  rotate: false
+  xy: 116, 440
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Explosion 13
+  rotate: false
+  xy: 2, 212
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Explosion 15
+  rotate: false
+  xy: 116, 326
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Explosion 17
+  rotate: false
+  xy: 230, 440
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Explosion 19
+  rotate: false
+  xy: 2, 98
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Explosion 21
+  rotate: false
+  xy: 116, 212
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Explosion 23
+  rotate: false
+  xy: 230, 326
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Explosion 25
+  rotate: false
+  xy: 344, 440
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Explosion 27
+  rotate: false
+  xy: 116, 98
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Explosion 28
+  rotate: false
+  xy: 230, 212
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Explosion 29
+  rotate: false
+  xy: 344, 326
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Explosion 30
+  rotate: false
+  xy: 344, 212
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Explosion 31
+  rotate: false
+  xy: 230, 98
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 192, 53
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1

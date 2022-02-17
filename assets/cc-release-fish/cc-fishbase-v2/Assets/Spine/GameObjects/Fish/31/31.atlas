@@ -1,0 +1,97 @@
+
+31.png
+size: 748,410
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 307, 11
+  size: 161, 172
+  orig: 161, 172
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 258, 174
+  size: 228, 234
+  orig: 228, 234
+  offset: 0, 0
+  index: -1
+ca bopdy
+  rotate: true
+  xy: 2, 10
+  size: 398, 168
+  orig: 398, 168
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 488, 282
+  size: 226, 126
+  orig: 226, 126
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: true
+  xy: 488, 223
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 562, 94
+  size: 184, 186
+  orig: 184, 186
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 481, 2
+  size: 79, 57
+  orig: 79, 57
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 172, 13
+  size: 124, 111
+  orig: 124, 111
+  offset: 0, 0
+  index: -1
+may
+  rotate: true
+  xy: 172, 126
+  size: 282, 84
+  orig: 282, 84
+  offset: 0, 0
+  index: -1
+mieng
+  rotate: true
+  xy: 481, 61
+  size: 111, 63
+  orig: 111, 63
+  offset: 0, 0
+  index: -1
+tay
+  rotate: true
+  xy: 562, 9
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+vay1
+  rotate: false
+  xy: 488, 179
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+vay2
+  rotate: true
+  xy: 258, 127
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1

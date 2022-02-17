@@ -1,0 +1,124 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "3DParticle",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_level": 1,
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 6
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 0,
+      "height": 0
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_position": {
+      "__type__": "cc.Vec3",
+      "x": 942,
+      "y": 791,
+      "z": 0
+    },
+    "_scale": {
+      "__type__": "cc.Vec3",
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "ca17eG8SwFJqKJ2GktWNUp2",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "particlePerSpawn": 80,
+    "spawnInterval": 2,
+    "speed": {
+      "__id__": 3
+    },
+    "gravity": -250,
+    "angle": {
+      "__id__": 4
+    },
+    "size": {
+      "__id__": 5
+    },
+    "lifetime": 0,
+    "radius": 0,
+    "duration": -1,
+    "coinAnimSpeed": 1.25,
+    "_id": ""
+  },
+  {
+    "__type__": "configParticle",
+    "start": 300,
+    "end": 500
+  },
+  {
+    "__type__": "configParticle",
+    "start": 0,
+    "end": 360
+  },
+  {
+    "__type__": "configParticle",
+    "start": 0.25,
+    "end": 0.4
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "0cc946c5-2f2a-400e-8c82-c04d99a1dd07"
+    },
+    "fileId": "9byfixtypPMawnd160pDaN",
+    "sync": false
+  }
+]

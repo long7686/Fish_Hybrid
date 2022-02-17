@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 451,451
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+starlight0
+  rotate: false
+  xy: 2, 197
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+starlight1
+  rotate: false
+  xy: 197, 150
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+starlight2
+  rotate: false
+  xy: 256, 372
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: -1
+timeCircleRed
+  rotate: false
+  xy: 2, 2
+  size: 193, 193
+  orig: 193, 193
+  offset: 0, 0
+  index: -1

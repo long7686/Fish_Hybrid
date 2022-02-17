@@ -1,0 +1,27 @@
+
+14.png
+size: 193,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sua1
+  rotate: false
+  xy: 2, 55
+  size: 170, 114
+  orig: 170, 114
+  offset: 0, 0
+  index: -1
+sua2
+  rotate: false
+  xy: 174, 14
+  size: 17, 155
+  orig: 17, 155
+  offset: 0, 0
+  index: -1
+sua3
+  rotate: true
+  xy: 2, 2
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1

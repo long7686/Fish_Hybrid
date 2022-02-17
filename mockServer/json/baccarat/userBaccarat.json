@@ -1,0 +1,17 @@
+{
+    "wallet": "10000",
+    "playSessions": [
+      {
+        "gameId": "9999",
+        "versionFrom": "0",
+        "versionTo": "1",
+        "id": "25",
+        "userId": "c56fde20-366b-49d5-b918-ca516e1ef033",
+        "commandId": "e8429628-2f0c-498e-b76b-d946bdf247f6",
+        "version": 1,
+        "wallet": 2000,
+        "min": 200,
+        "max": 2000
+      }
+    ]
+  }

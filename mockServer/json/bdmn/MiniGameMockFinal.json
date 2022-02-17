@@ -1,0 +1,42 @@
+{
+    "gameId": "9996",
+    "versionFrom": "0",
+    "versionTo": "1",
+    "miniGameMatrix": [
+      "0.0",
+      "0.0",
+      "0.0",
+      "0.0",
+      "0.0",
+      "0.0",
+      "0.0",
+      "0.0",
+      "0.0",
+      "0.0",
+      "0.0",
+      "0.0"
+    ],
+    "matrix": [
+      "2","R","R","R","6",
+      "2","2","9","7","2",
+      "3","4","9","5","4"
+    ],
+    "id": "25",
+    "userId": "c56fde20-366b-49d5-b918-ca516e1ef033",
+    "commandId": "e8429628-2f0c-498e-b76b-d946bdf247f6",
+    "version": 1,
+    "winAmount": 200,
+    "jackpotId": "BDMN_JP01_MINI",
+    "miniGameRemain": 0,
+    "betValuePerLine": 5,
+    "freeSpinRemain": 0,
+    "lastEvent": {
+      "miniGameResult": {
+        "symbolMini": 3,
+        "jackpotId": "BDMN_JP01_MINI",
+        "jackpot": 50
+      }
+    },
+    "isFinished": true
+  }
+  

@@ -1,0 +1,110 @@
+{
+    "playSessions": [
+        {
+            "currentStatus": "START_TABLE_",
+            "gameId": "9999",
+            "tableId": "c56fde20-366b-49d5-b123-ta516e1ef098",
+            "commandId": "e8429628-2f0c-498e-b76b-d946bdf247f6",
+            "versionFrom": "0",
+            "versionTo": "1",
+            "id": "25",
+            "userList": [
+                {
+                    "userId": "c56fde20-366b-49d5-b918-ca516e1ef033",
+                    "totalWinAmount": 2100,
+                    "betting": [
+                        {
+                            "commandId": "e8429628-2f0c-498e-b76b-d946bdf247f6",
+                            "handType": {
+                                "code": 1,
+                                "wonRate": 1,
+                                "betAmount": 550,
+                                "isBetSuccess": true,
+                                "wonAmount": 550
+                            }
+                        },
+                        {
+                            "commandId": "e8429628-2f0c-498e-b76b-d946bdf247f7",
+                            "handType": {
+                                "code": 2,
+                                "wonRate": 1,
+                                "betAmount": 450,
+                                "isBetSuccess": true,
+                                "wonAmount": 450
+                            }
+                        },
+                        {
+                            "commandId": "e8429628-2f0c-498e-b76b-d946bdf247f8",
+                            "handType": {
+                                "code": 6,
+                                "wonRate": 11,
+                                "betAmount": 100,
+                                "isBetSuccess": true,
+                                "wonAmount": 1100
+                            }
+                        }
+                    ],
+                    "errorCodes": []
+                }
+            ],
+            "bankerInfo": {
+                "card": [
+                    {
+                        "symbol": {
+                            "type": 0,
+                            "code": "0",
+                            "name": "A",
+                            "score": 1,
+                            "softScore": 1
+                        },
+                        "isShow": true
+                    },
+                    {
+                        "symbol": {
+                            "type": 0,
+                            "code": "1",
+                            "name": "4",
+                            "score": 4,
+                            "softScore": 4
+                        },
+                        "isShow": true
+                    }
+                ],    
+                "score": 5
+            },
+            "playerInfo": {
+                "card": [
+                    {
+                        "symbol": {
+                            "type": 0,
+                            "code": "8",
+                            "name": "8",
+                            "score": 8,
+                            "softScore": 8
+                        },
+                        "isShow": true
+                    },
+                    {
+                        "symbol": {
+                            "type": 0,
+                            "code": "10",
+                            "name": "J",
+                            "score": 0,
+                            "softScore": 0
+                        },
+                        "isShow": true
+                    }
+                ],    
+                "score": 8
+            },
+            "isSmall": true,
+            "isBig": false,
+            "isTie": false,
+            "isWinPlayer": true,
+            "isWinBanker": false,
+            "isBankerPair": false,
+            "isPLayerPair": false,
+            "isFinished": false
+        }
+    ]
+}

@@ -1,0 +1,531 @@
+
+JP_Nohu.png
+size: 1969,482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Electric/00
+  rotate: true
+  xy: 114, 2
+  size: 42, 93
+  orig: 42, 93
+  offset: 0, 0
+  index: -1
+Electric/02
+  rotate: true
+  xy: 1834, 274
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+Electric/03
+  rotate: false
+  xy: 1758, 102
+  size: 48, 85
+  orig: 48, 85
+  offset: 0, 0
+  index: -1
+Electric/04
+  rotate: true
+  xy: 865, 2
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+Electric/05
+  rotate: false
+  xy: 1848, 133
+  size: 37, 76
+  orig: 37, 76
+  offset: 0, 0
+  index: -1
+Electric/06
+  rotate: false
+  xy: 1713, 9
+  size: 39, 71
+  orig: 39, 71
+  offset: 0, 0
+  index: -1
+Electric/07
+  rotate: false
+  xy: 1848, 70
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+Electric/08
+  rotate: true
+  xy: 1892, 216
+  size: 47, 70
+  orig: 47, 70
+  offset: 0, 0
+  index: -1
+Electric/09
+  rotate: true
+  xy: 886, 59
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Electric/10
+  rotate: true
+  xy: 917, 94
+  size: 96, 113
+  orig: 96, 113
+  offset: 0, 0
+  index: -1
+Energy3/Energy3_00
+  rotate: true
+  xy: 748, 60
+  size: 69, 136
+  orig: 100, 136
+  offset: 13, 0
+  index: -1
+Energy3/Energy3_09
+  rotate: true
+  xy: 1308, 219
+  size: 70, 136
+  orig: 100, 136
+  offset: 12, 0
+  index: -1
+Light_Run
+  rotate: false
+  xy: 760, 346
+  size: 409, 134
+  orig: 409, 134
+  offset: 0, 0
+  index: -1
+Lighting1/Lighting1_00
+  rotate: false
+  xy: 1682, 186
+  size: 46, 110
+  orig: 50, 110
+  offset: 1, 0
+  index: -1
+Lighting1/Lighting1_01
+  rotate: true
+  xy: 1424, 64
+  size: 38, 110
+  orig: 50, 110
+  offset: 1, 0
+  index: -1
+Lighting1/Lighting1_02
+  rotate: true
+  xy: 2, 2
+  size: 42, 110
+  orig: 50, 110
+  offset: 3, 0
+  index: -1
+Lighting1/Lighting1_03
+  rotate: false
+  xy: 1391, 107
+  size: 40, 110
+  orig: 50, 110
+  offset: 1, 0
+  index: -1
+Lighting1/Lighting1_04
+  rotate: false
+  xy: 1637, 88
+  size: 40, 110
+  orig: 50, 110
+  offset: 5, 0
+  index: -1
+Lighting1/Lighting1_05
+  rotate: true
+  xy: 1424, 26
+  size: 36, 110
+  orig: 50, 110
+  offset: 3, 0
+  index: -1
+Lighting2/Lighting2_00
+  rotate: false
+  xy: 1897, 172
+  size: 70, 42
+  orig: 88, 67
+  offset: 0, 8
+  index: -1
+Lighting2/Lighting2_02
+  rotate: true
+  xy: 1915, 265
+  size: 74, 52
+  orig: 88, 67
+  offset: 0, 8
+  index: -1
+Lighting2/Lighting2_04
+  rotate: false
+  xy: 570, 2
+  size: 70, 63
+  orig: 88, 67
+  offset: 4, 4
+  index: -1
+Lighting2/Lighting2_06
+  rotate: false
+  xy: 1828, 211
+  size: 62, 61
+  orig: 88, 67
+  offset: 16, 6
+  index: -1
+Lighting2/Lighting2_08
+  rotate: false
+  xy: 1088, 3
+  size: 78, 54
+  orig: 88, 67
+  offset: 10, 4
+  index: -1
+Lighting2/Lighting2_11
+  rotate: false
+  xy: 1168, 11
+  size: 84, 50
+  orig: 88, 67
+  offset: 2, 2
+  index: -1
+Lighting2/Lighting2_13
+  rotate: false
+  xy: 1897, 118
+  size: 64, 52
+  orig: 88, 67
+  offset: 14, 0
+  index: -1
+Spark1/Spark1_00
+  rotate: true
+  xy: 1719, 83
+  size: 101, 37
+  orig: 119, 47
+  offset: 4, 4
+  index: -1
+Spark1/Spark1_01
+  rotate: true
+  xy: 1679, 82
+  size: 102, 38
+  orig: 119, 47
+  offset: 4, 4
+  index: -1
+Spark1/Spark1_02
+  rotate: true
+  xy: 1385, 2
+  size: 100, 37
+  orig: 119, 47
+  offset: 8, 3
+  index: -1
+Spark1/Spark1_03
+  rotate: true
+  xy: 1253, 64
+  size: 103, 38
+  orig: 119, 47
+  offset: 9, 2
+  index: -1
+Spark1/Spark1_04
+  rotate: true
+  xy: 1808, 94
+  size: 93, 38
+  orig: 119, 47
+  offset: 22, 3
+  index: -1
+Spark1/Spark1_05
+  rotate: true
+  xy: 1347, 2
+  size: 107, 36
+  orig: 119, 47
+  offset: 10, 3
+  index: -1
+Spark1/Spark1_06
+  rotate: true
+  xy: 948, 2
+  size: 90, 36
+  orig: 119, 47
+  offset: 28, 3
+  index: -1
+Spark2/Spark2_00
+  rotate: true
+  xy: 986, 5
+  size: 87, 42
+  orig: 100, 63
+  offset: 11, 0
+  index: -1
+Spark2/Spark2_01
+  rotate: false
+  xy: 1897, 73
+  size: 62, 43
+  orig: 100, 63
+  offset: 20, 0
+  index: -1
+Spark2/Spark2_02
+  rotate: false
+  xy: 1254, 2
+  size: 91, 60
+  orig: 100, 63
+  offset: 7, 0
+  index: -1
+Spark2/Spark2_03
+  rotate: true
+  xy: 1605, 2
+  size: 78, 50
+  orig: 100, 63
+  offset: 14, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 1025, 216
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Thunder/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00000
+  rotate: true
+  xy: 1897, 24
+  size: 47, 52
+  orig: 200, 200
+  offset: 75, 6
+  index: -1
+Thunder/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00001
+  rotate: false
+  xy: 1909, 341
+  size: 50, 139
+  orig: 200, 200
+  offset: 71, 11
+  index: -1
+Thunder/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00002
+  rotate: true
+  xy: 760, 131
+  size: 59, 155
+  orig: 200, 200
+  offset: 68, 6
+  index: -1
+Thunder/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00003
+  rotate: true
+  xy: 1155, 220
+  size: 69, 151
+  orig: 200, 200
+  offset: 65, 11
+  index: -1
+Thunder/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00004
+  rotate: true
+  xy: 447, 68
+  size: 69, 150
+  orig: 200, 200
+  offset: 71, 14
+  index: -1
+Thunder/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00005
+  rotate: false
+  xy: 1834, 326
+  size: 73, 154
+  orig: 200, 200
+  offset: 63, 14
+  index: -1
+Thunder/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00006
+  rotate: true
+  xy: 599, 67
+  size: 70, 147
+  orig: 200, 200
+  offset: 71, 27
+  index: -1
+Thunder/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00007
+  rotate: true
+  xy: 1032, 59
+  size: 59, 119
+  orig: 200, 200
+  offset: 69, 48
+  index: -1
+Thunder/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00008
+  rotate: true
+  xy: 447, 5
+  size: 61, 121
+  orig: 200, 200
+  offset: 65, 53
+  index: -1
+Thunder/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00009
+  rotate: true
+  xy: 642, 6
+  size: 59, 104
+  orig: 200, 200
+  offset: 64, 59
+  index: -1
+Thunder/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00010
+  rotate: true
+  xy: 1155, 169
+  size: 49, 115
+  orig: 200, 200
+  offset: 72, 60
+  index: -1
+Thunder/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00013
+  rotate: true
+  xy: 748, 7
+  size: 51, 115
+  orig: 200, 200
+  offset: 65, 65
+  index: -1
+Thunder/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00015
+  rotate: true
+  xy: 1030, 2
+  size: 55, 56
+  orig: 200, 200
+  offset: 63, 127
+  index: -1
+Thunder/Elements - Electricity 005 Shot Ray Up noCT noRSZ_00017
+  rotate: true
+  xy: 1758, 47
+  size: 53, 48
+  orig: 200, 200
+  offset: 63, 138
+  index: -1
+eyefx
+  rotate: true
+  xy: 1657, 7
+  size: 73, 54
+  orig: 73, 54
+  offset: 0, 0
+  index: -1
+fx x
+  rotate: false
+  xy: 1171, 291
+  size: 217, 189
+  orig: 217, 189
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 120
+  size: 370, 360
+  orig: 370, 360
+  offset: 0, 0
+  index: -1
+godzilla
+  rotate: false
+  xy: 374, 139
+  size: 384, 341
+  orig: 384, 341
+  offset: 0, 0
+  index: -1
+laser1
+  rotate: false
+  xy: 1574, 415
+  size: 258, 65
+  orig: 258, 65
+  offset: 0, 0
+  index: -1
+laser2
+  rotate: false
+  xy: 2, 46
+  size: 255, 72
+  orig: 255, 72
+  offset: 0, 0
+  index: -1
+laserfx
+  rotate: false
+  xy: 1574, 298
+  size: 135, 115
+  orig: 135, 115
+  offset: 0, 0
+  index: -1
+laserfx2
+  rotate: false
+  xy: 1711, 303
+  size: 121, 110
+  orig: 121, 110
+  offset: 0, 0
+  index: -1
+laserfx5
+  rotate: false
+  xy: 1537, 104
+  size: 98, 94
+  orig: 100, 100
+  offset: 1, 2
+  index: -1
+light
+  rotate: false
+  xy: 1536, 35
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lightingl1/lightingl1_00
+  rotate: false
+  xy: 1730, 189
+  size: 96, 112
+  orig: 120, 120
+  offset: 4, 8
+  index: -1
+lightingl1/lightingl1_02
+  rotate: false
+  xy: 1153, 63
+  size: 98, 104
+  orig: 120, 120
+  offset: 0, 8
+  index: -1
+lightingl1/lightingl1_04
+  rotate: true
+  xy: 259, 2
+  size: 116, 98
+  orig: 120, 120
+  offset: 0, 12
+  index: -1
+lightingl1/lightingl1_06
+  rotate: false
+  xy: 1032, 120
+  size: 118, 94
+  orig: 120, 120
+  offset: 0, 12
+  index: -1
+lightingl1/lightingl1_08
+  rotate: true
+  xy: 359, 2
+  size: 116, 86
+  orig: 120, 120
+  offset: 2, 14
+  index: -1
+lightingl1/lightingl1_10
+  rotate: false
+  xy: 1446, 202
+  size: 118, 94
+  orig: 120, 120
+  offset: 2, 18
+  index: -1
+lightingl1/lightingl1_13
+  rotate: false
+  xy: 1566, 200
+  size: 114, 96
+  orig: 120, 120
+  offset: 0, 16
+  index: -1
+lightingl1/lightingl1_15
+  rotate: false
+  xy: 1433, 104
+  size: 102, 96
+  orig: 120, 120
+  offset: 2, 14
+  index: -1
+lightingl1/lightingl1_17
+  rotate: false
+  xy: 1293, 111
+  size: 96, 106
+  orig: 120, 120
+  offset: 6, 4
+  index: -1
+nohu
+  rotate: false
+  xy: 760, 192
+  size: 263, 152
+  orig: 263, 152
+  offset: 0, 0
+  index: -1
+nohufx
+  rotate: false
+  xy: 1390, 298
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+set1
+  rotate: false
+  xy: 1754, 3
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+set2
+  rotate: false
+  xy: 1293, 84
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+Ca1_Lobby_Normal.png
+size: 908,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Caduoi
+  rotate: false
+  xy: 435, 43
+  size: 213, 106
+  orig: 213, 106
+  offset: 0, 0
+  index: -1
+Cahong
+  rotate: false
+  xy: 167, 8
+  size: 167, 91
+  orig: 167, 91
+  offset: 0, 0
+  index: -1
+Cahong_vay
+  rotate: true
+  xy: 364, 77
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+Camap
+  rotate: true
+  xy: 435, 151
+  size: 171, 225
+  orig: 171, 225
+  offset: 0, 0
+  index: -1
+Canemo
+  rotate: false
+  xy: 650, 2
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+Fin2_Nemo
+  rotate: true
+  xy: 336, 40
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Fin_Nemo
+  rotate: false
+  xy: 336, 66
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+Island
+  rotate: false
+  xy: 2, 101
+  size: 431, 221
+  orig: 431, 221
+  offset: 0, 0
+  index: -1
+Title_Khampha
+  rotate: true
+  xy: 662, 87
+  size: 235, 109
+  orig: 235, 109
+  offset: 0, 0
+  index: -1
+seaweed
+  rotate: true
+  xy: 744, 9
+  size: 76, 162
+  orig: 76, 162
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 773, 191
+  size: 113, 131
+  orig: 113, 131
+  offset: 0, 0
+  index: -1
+shipshadow
+  rotate: false
+  xy: 773, 114
+  size: 123, 75
+  orig: 123, 75
+  offset: 0, 0
+  index: -1
+shipwave
+  rotate: false
+  xy: 2, 7
+  size: 163, 92
+  orig: 163, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+Effect_gun_ice_ca1.png
+size: 248,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 174, 36
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+Core
+  rotate: false
+  xy: 2, 170
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+New folder/1
+  rotate: false
+  xy: 84, 18
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+New folder/2
+  rotate: false
+  xy: 90, 99
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+New folder/3
+  rotate: false
+  xy: 2, 84
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+New folder/4
+  rotate: false
+  xy: 90, 176
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+New folder/5
+  rotate: false
+  xy: 2, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+New folder/6
+  rotate: false
+  xy: 167, 74
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+eff
+  rotate: false
+  xy: 84, 4
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+flare
+  rotate: false
+  xy: 128, 22
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+ice
+  rotate: true
+  xy: 172, 203
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+ice_aura
+  rotate: true
+  xy: 172, 148
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+ice_light
+  rotate: true
+  xy: 88, 68
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+slow
+  rotate: false
+  xy: 142, 88
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1

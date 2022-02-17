@@ -1,0 +1,93 @@
+info face="MyriadB_YO-export" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=35 base=26 scaleW=246 scaleH=242 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="MyriadB_YO-export.png"
+chars count=44
+char id=84 x=168 y=181 width=28 height=33 xoffset=0 yoffset=2 xadvance=25 page=0 chnl=0 letter="T"
+char id=72 x=168 y=0 width=29 height=33 xoffset=0 yoffset=2 xadvance=26 page=0 chnl=0 letter="H"
+char id=212 x=35 y=122 width=32 height=39 xoffset=0 yoffset=-4 xadvance=29 page=0 chnl=0 letter="Ô"
+char id=78 x=167 y=41 width=29 height=33 xoffset=0 yoffset=2 xadvance=26 page=0 chnl=0 letter="N"
+char id=71 x=135 y=205 width=31 height=33 xoffset=0 yoffset=2 xadvance=28 page=0 chnl=0 letter="G"
+char id=66 x=198 y=181 width=27 height=33 xoffset=0 yoffset=2 xadvance=24 page=0 chnl=0 letter="B"
+char id=193 x=135 y=88 width=31 height=39 xoffset=0 yoffset=-4 xadvance=28 page=0 chnl=0 letter="Á"
+char id=79 x=35 y=163 width=32 height=33 xoffset=0 yoffset=2 xadvance=29 page=0 chnl=0 letter="O"
+char id=205 x=226 y=0 width=18 height=39 xoffset=0 yoffset=-4 xadvance=15 page=0 chnl=0 letter="Í"
+char id=258 x=36 y=81 width=31 height=39 xoffset=0 yoffset=-4 xadvance=28 page=0 chnl=0 letter="Ă"
+char id=272 x=0 y=162 width=33 height=33 xoffset=0 yoffset=2 xadvance=30 page=0 chnl=0 letter="Đ"
+char id=7862 x=102 y=125 width=31 height=48 xoffset=0 yoffset=-5 xadvance=28 page=0 chnl=0 letter="Ặ"
+char id=67 x=168 y=146 width=28 height=33 xoffset=0 yoffset=2 xadvance=25 page=0 chnl=0 letter="C"
+char id=73 x=226 y=84 width=14 height=33 xoffset=0 yoffset=2 xadvance=11 page=0 chnl=0 letter="I"
+char id=7878 x=199 y=70 width=25 height=47 xoffset=0 yoffset=-4 xadvance=22 page=0 chnl=0 letter="Ệ"
+char id=7888 x=69 y=81 width=32 height=42 xoffset=0 yoffset=-7 xadvance=29 page=0 chnl=0 letter="Ố"
+char id=75 x=168 y=76 width=29 height=33 xoffset=0 yoffset=2 xadvance=26 page=0 chnl=0 letter="K"
+char id=7928 x=136 y=0 width=30 height=39 xoffset=0 yoffset=-4 xadvance=27 page=0 chnl=0 letter="Ỹ"
+char id=360 x=136 y=41 width=29 height=39 xoffset=0 yoffset=-4 xadvance=26 page=0 chnl=0 letter="Ũ"
+char id=82 x=198 y=146 width=28 height=33 xoffset=0 yoffset=2 xadvance=25 page=0 chnl=0 letter="R"
+char id=7890 x=35 y=198 width=32 height=42 xoffset=0 yoffset=-7 xadvance=29 page=0 chnl=0 letter="Ồ"
+char id=431 x=0 y=122 width=33 height=38 xoffset=0 yoffset=-3 xadvance=30 page=0 chnl=0 letter="Ư"
+char id=7898 x=0 y=35 width=34 height=39 xoffset=0 yoffset=-4 xadvance=31 page=0 chnl=0 letter="Ớ"
+char id=68 x=38 y=0 width=30 height=33 xoffset=0 yoffset=2 xadvance=27 page=0 chnl=0 letter="D"
+char id=7850 x=36 y=35 width=32 height=44 xoffset=0 yoffset=-9 xadvance=29 page=0 chnl=0 letter="Ẫ"
+char id=192 x=135 y=129 width=31 height=39 xoffset=0 yoffset=-4 xadvance=28 page=0 chnl=0 letter="À"
+char id=76 x=199 y=0 width=24 height=33 xoffset=0 yoffset=2 xadvance=21 page=0 chnl=0 letter="L"
+char id=7882 x=226 y=41 width=14 height=41 xoffset=0 yoffset=2 xadvance=11 page=0 chnl=0 letter="Ị"
+char id=83 x=198 y=35 width=26 height=33 xoffset=0 yoffset=2 xadvance=23 page=0 chnl=0 letter="S"
+char id=7916 x=0 y=197 width=33 height=42 xoffset=0 yoffset=-7 xadvance=30 page=0 chnl=0 letter="Ử"
+char id=7858 x=69 y=169 width=31 height=45 xoffset=0 yoffset=-10 xadvance=28 page=0 chnl=0 letter="Ẳ"
+char id=7854 x=69 y=125 width=31 height=42 xoffset=0 yoffset=-7 xadvance=28 page=0 chnl=0 letter="Ắ"
+char id=77 x=0 y=0 width=36 height=33 xoffset=0 yoffset=2 xadvance=33 page=0 chnl=0 letter="M"
+char id=89 x=103 y=88 width=30 height=33 xoffset=0 yoffset=2 xadvance=27 page=0 chnl=0 letter="Y"
+char id=7906 x=0 y=76 width=34 height=44 xoffset=0 yoffset=-1 xadvance=31 page=0 chnl=0 letter="Ợ"
+char id=7844 x=102 y=175 width=31 height=42 xoffset=0 yoffset=-7 xadvance=28 page=0 chnl=0 letter="Ấ"
+char id=7842 x=103 y=44 width=31 height=42 xoffset=0 yoffset=-7 xadvance=28 page=0 chnl=0 letter="Ả"
+char id=7846 x=103 y=0 width=31 height=42 xoffset=0 yoffset=-7 xadvance=28 page=0 chnl=0 letter="Ầ"
+char id=65 x=135 y=170 width=31 height=33 xoffset=0 yoffset=2 xadvance=28 page=0 chnl=0 letter="A"
+char id=194 x=70 y=0 width=31 height=39 xoffset=0 yoffset=-4 xadvance=28 page=0 chnl=0 letter="Â"
+char id=85 x=168 y=111 width=29 height=33 xoffset=0 yoffset=2 xadvance=26 page=0 chnl=0 letter="U"
+char id=86 x=70 y=44 width=31 height=33 xoffset=0 yoffset=2 xadvance=28 page=0 chnl=0 letter="V"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=7 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=210 page=0 chnl=0 letter="	"
+
+kernings count=43
+kerning first=84  second=72  amount=-1
+kerning first=72  second=212  amount=-1
+kerning first=212  second=78  amount=-1
+kerning first=78  second=71  amount=-1
+kerning first=66  second=193  amount=-2
+kerning first=193  second=79  amount=-3
+kerning first=67  second=7854  amount=-1
+kerning first=7854  second=77  amount=-1
+kerning first=77  second=193  amount=-1
+kerning first=193  second=89  amount=-7
+kerning first=84  second=205  amount=-1
+kerning first=205  second=78  amount=-5
+kerning first=78  second=72  amount=-1
+kerning first=78  second=258  amount=-1
+kerning first=78  second=71  amount=-1
+kerning first=272  second=7862  amount=-3
+kerning first=7862  second=67  amount=-3
+kerning first=66  second=73  amount=-1
+kerning first=73  second=7878  amount=-1
+kerning first=7878  second=84  amount=-3
+kerning first=75  second=7928  amount=-3
+kerning first=78  second=258  amount=-1
+kerning first=258  second=78  amount=-1
+kerning first=78  second=71  amount=-1
+kerning first=72  second=7878  amount=-1
+kerning first=83  second=7888  amount=-1
+kerning first=67  second=193  amount=-1
+kerning first=72  second=360  amount=-1
+kerning first=82  second=7890  amount=-2
+kerning first=7890  second=78  amount=-1
+kerning first=72  second=431  amount=-1
+kerning first=431  second=7898  amount=-2
+kerning first=7898  second=78  amount=-1
+kerning first=68  second=7850  amount=-3
+kerning first=7850  second=78  amount=-1
+kerning first=83  second=7916  amount=-1
+kerning first=84  second=82  amount=-1
+kerning first=82  second=7844  amount=-1
+kerning first=7844  second=78  amount=-1
+kerning first=72  second=7842  amount=-1
+kerning first=7842  second=73  amount=-1
+kerning first=7846  second=78  amount=-1
+kerning first=7862  second=84  amount=-6

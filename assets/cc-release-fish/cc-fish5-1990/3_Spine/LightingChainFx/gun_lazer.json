@@ -1,0 +1,137 @@
+{
+"skeleton": { "hash": "PgdjCp9HrBNQ66fgetZ6idqkLJ8", "spine": "3.7.94", "width": 256.24, "height": 288.33 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "gun_lightning", "parent": "root", "x": 7.32, "y": -1.76, "scaleX": 0.6, "scaleY": 0.6 },
+	{ "name": "gun_lightning2", "parent": "root", "x": 1.79, "y": 0.89, "scaleX": 4, "scaleY": 4 },
+	{ "name": "shoot", "parent": "root", "x": 4, "y": 28.44 },
+	{ "name": "hitouter", "parent": "root", "x": 2.92, "y": 61.1 }
+],
+"slots": [
+	{ "name": "f1", "bone": "gun_lightning", "attachment": "f1", "blend": "additive" },
+	{ "name": "hitouter", "bone": "hitouter", "attachment": "hitouter", "blend": "additive" },
+	{ "name": "f_outer", "bone": "gun_lightning2", "attachment": "f_outer", "blend": "additive" },
+	{ "name": "shoot1", "bone": "shoot", "attachment": "shoot12", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"f1": {
+			"f1": { "x": -1.56, "y": 9.41, "width": 250, "height": 250 },
+			"f2": { "x": -1.56, "y": 9.41, "width": 250, "height": 250 },
+			"f3": { "x": -1.56, "y": 9.41, "width": 250, "height": 250 },
+			"f4": { "x": -1.56, "y": 9.41, "width": 250, "height": 250 },
+			"f5": { "x": -1.56, "y": 9.41, "width": 250, "height": 250 },
+			"f6": { "x": -1.56, "y": 9.41, "width": 250, "height": 250 },
+			"f7": { "x": -1.56, "y": 9.41, "width": 250, "height": 250 },
+			"f8": { "x": -1.56, "y": 9.41, "width": 250, "height": 250 }
+		},
+		"f_outer": {
+			"f_outer": { "width": 50, "height": 50 }
+		},
+		"hitouter": {
+			"hitouter": { "scaleX": 5.338, "scaleY": 5.338, "width": 48, "height": 48 }
+		},
+		"shoot1": {
+			"shoot1": { "x": -0.64, "y": 19.05, "width": 166, "height": 180 },
+			"shoot2": { "x": -0.64, "y": 19.05, "width": 167, "height": 179 },
+			"shoot3": { "x": -0.64, "y": 19.05, "width": 167, "height": 118 },
+			"shoot4": { "x": -0.64, "y": 19.05, "width": 175, "height": 140 },
+			"shoot8": { "x": -0.64, "y": 19.05, "width": 153, "height": 179 },
+			"shoot9": { "x": -0.64, "y": 19.05, "width": 162, "height": 185 },
+			"shoot10": { "x": -0.64, "y": 19.05, "width": 149, "height": 182 },
+			"shoot12": { "x": -0.64, "y": 19.05, "width": 153, "height": 182 }
+		}
+	}
+},
+"animations": {
+	"lazer_idle": {
+		"slots": {
+			"f1": {
+				"attachment": [
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.0667, "name": "f2" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.1333, "name": "f3" },
+					{ "time": 0.1667, "name": null },
+					{ "time": 0.2, "name": "f4" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2667, "name": "f5" },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.3333, "name": "f6" },
+					{ "time": 0.3667, "name": null },
+					{ "time": 0.4, "name": "f7" },
+					{ "time": 0.4333, "name": null },
+					{ "time": 0.4667, "name": "f8" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"f_outer": {
+				"color": [
+					{ "time": 0, "color": "ffffffa2" },
+					{ "time": 0.0333, "color": "ffffff15" },
+					{ "time": 0.0667, "color": "ffffffa2" },
+					{ "time": 0.1, "color": "ffffff15" },
+					{ "time": 0.1333, "color": "ffffffa2" },
+					{ "time": 0.1667, "color": "ffffff15" },
+					{ "time": 0.2, "color": "ffffffa2" },
+					{ "time": 0.2333, "color": "ffffff15" },
+					{ "time": 0.2667, "color": "ffffffa2" },
+					{ "time": 0.3, "color": "ffffff15" },
+					{ "time": 0.3333, "color": "ffffffa2" },
+					{ "time": 0.3667, "color": "ffffff15" },
+					{ "time": 0.4, "color": "ffffffa2" },
+					{ "time": 0.4333, "color": "ffffff15" },
+					{ "time": 0.4667, "color": "ffffffa2" },
+					{ "time": 0.5, "color": "ffffff15" }
+				]
+			},
+			"hitouter": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shoot1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"lazer_shoot": {
+		"slots": {
+			"f1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"f_outer": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shoot1": {
+				"attachment": [
+					{ "time": 0, "name": "shoot1" },
+					{ "time": 0.0333, "name": "shoot2" },
+					{ "time": 0.0667, "name": "shoot3" },
+					{ "time": 0.1, "name": "shoot4" },
+					{ "time": 0.1333, "name": "shoot8" },
+					{ "time": 0.1667, "name": "shoot9" },
+					{ "time": 0.2, "name": "shoot10" },
+					{ "time": 0.2333, "name": "shoot12" },
+					{ "time": 0.2667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"hitouter": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 2, "y": 2 },
+					{ "time": 0.1667, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

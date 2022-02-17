@@ -1,0 +1,41 @@
+
+20.png
+size: 480,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong
+  rotate: true
+  xy: 2, 2
+  size: 152, 230
+  orig: 152, 230
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 234, 66
+  size: 88, 244
+  orig: 88, 244
+  offset: 0, 0
+  index: -1
+vay
+  rotate: false
+  xy: 234, 12
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+vay1
+  rotate: false
+  xy: 299, 14
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+vay2
+  rotate: false
+  xy: 363, 24
+  size: 9, 40
+  orig: 9, 40
+  offset: 0, 0
+  index: -1

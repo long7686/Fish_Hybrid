@@ -1,0 +1,62 @@
+
+Explosion_Small.png
+size: 725,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+178 (3)
+  rotate: false
+  xy: 2, 91
+  size: 199, 195
+  orig: 201, 199
+  offset: 1, 1
+  index: -1
+Elip
+  rotate: false
+  xy: 599, 19
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Fx/FX_B_01
+  rotate: true
+  xy: 477, 13
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+Fx/FX_B_02
+  rotate: false
+  xy: 343, 16
+  size: 132, 125
+  orig: 134, 125
+  offset: 1, 0
+  index: -1
+Fx/FX_B_03
+  rotate: true
+  xy: 203, 2
+  size: 140, 138
+  orig: 143, 138
+  offset: 1, 0
+  index: -1
+Fx/FX_B_04
+  rotate: false
+  xy: 519, 145
+  size: 148, 141
+  orig: 148, 141
+  offset: 0, 0
+  index: -1
+Fx/FX_B_05
+  rotate: false
+  xy: 203, 144
+  size: 158, 142
+  orig: 158, 142
+  offset: 0, 0
+  index: -1
+Fx/FX_B_06
+  rotate: false
+  xy: 363, 143
+  size: 154, 143
+  orig: 154, 143
+  offset: 0, 0
+  index: -1

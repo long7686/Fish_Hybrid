@@ -1,0 +1,74 @@
+
+{
+    "id": "3da39e14-b163-4227-98d9-133949f0a17b",
+    "userId": "6951de0d-cddc-46a4-abde-3bb44cce0dec",
+    "serviceId": "9993",
+    "commandId": "15dbf503-a8fd-4a97-a891-a1007a71c6ed",
+    "version": 1,
+    "betId": 14,
+    "normalGameMatrix": [
+      "6",
+      "7",
+      "7",
+      "A",
+      "7",
+      "4",
+      "10",
+      "10",
+      "6",
+      "A",
+      "5",
+      "10",
+      "K",
+      "K",
+      "K"
+    ],
+    "normalGameTableFormat": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "isFinished": true,
+    "lastEvent": {
+      "normalGameResult": {
+        "matrix": [
+          "6",
+          "7",
+          "7",
+          "A",
+          "6",
+          "A",
+          "10",
+          "10",
+          "6",
+          "A",
+          "5",
+          "10",
+          "K",
+          "K",
+          "K"
+        ],
+        "goldenReel": [
+          9,
+          9,
+          9,
+          9,
+          9
+        ]
+      }
+    },
+    "extend": {
+      "extraBetId": 4,
+      "goldenReel": [
+        9,
+        9,
+        9,
+        9,
+        9
+      ]
+    },
+    "pvsReceivedTime": 1565767049917,
+    "stateType": "9993"
+  }

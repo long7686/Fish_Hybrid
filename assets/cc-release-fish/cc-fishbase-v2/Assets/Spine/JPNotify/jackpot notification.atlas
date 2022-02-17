@@ -1,0 +1,125 @@
+
+jackpot notification.png
+size: 248,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ngoc01
+  rotate: false
+  xy: 219, 174
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Ngoc02
+  rotate: false
+  xy: 203, 41
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Ngoc03
+  rotate: false
+  xy: 150, 7
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Ngoc04
+  rotate: false
+  xy: 219, 149
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Ngoc05
+  rotate: false
+  xy: 206, 23
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Ngoc07
+  rotate: false
+  xy: 159, 38
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+a1
+  rotate: true
+  xy: 238, 130
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 103, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+den
+  rotate: false
+  xy: 59, 6
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+den1
+  rotate: false
+  xy: 103, 10
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+eff
+  rotate: false
+  xy: 206, 2
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+mongrong
+  rotate: false
+  xy: 159, 132
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+rong
+  rotate: false
+  xy: 2, 56
+  size: 155, 143
+  orig: 155, 143
+  offset: 0, 0
+  index: -1
+rongsang
+  rotate: false
+  xy: 2, 4
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 159, 82
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+tien
+  rotate: false
+  xy: 181, 13
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+tien1
+  rotate: false
+  xy: 219, 130
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

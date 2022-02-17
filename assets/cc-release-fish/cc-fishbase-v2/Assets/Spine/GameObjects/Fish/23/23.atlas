@@ -1,0 +1,41 @@
+
+23.png
+size: 227,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong
+  rotate: false
+  xy: 2, 47
+  size: 141, 230
+  orig: 141, 230
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 145, 54
+  size: 80, 223
+  orig: 80, 223
+  offset: 0, 0
+  index: -1
+vay
+  rotate: true
+  xy: 2, 2
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+vay1
+  rotate: true
+  xy: 50, 4
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+vay3
+  rotate: false
+  xy: 98, 11
+  size: 9, 34
+  orig: 9, 34
+  offset: 0, 0
+  index: -1

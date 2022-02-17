@@ -1,0 +1,125 @@
+
+Shield_Miniboss.png
+size: 908,781
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 2_00000
+  rotate: true
+  xy: 411, 278
+  size: 249, 121
+  orig: 262, 143
+  offset: 7, 11
+  index: -1
+Comp 2_00004
+  rotate: true
+  xy: 656, 284
+  size: 249, 120
+  orig: 262, 143
+  offset: 6, 12
+  index: -1
+Comp 2_00008
+  rotate: true
+  xy: 492, 27
+  size: 249, 121
+  orig: 262, 143
+  offset: 6, 11
+  index: -1
+Comp 2_00012
+  rotate: false
+  xy: 534, 658
+  size: 249, 121
+  orig: 262, 143
+  offset: 6, 11
+  index: -1
+Comp 2_00016
+  rotate: true
+  xy: 785, 530
+  size: 249, 121
+  orig: 262, 143
+  offset: 6, 11
+  index: -1
+Comp 2_00020
+  rotate: true
+  xy: 656, 33
+  size: 249, 120
+  orig: 262, 143
+  offset: 6, 12
+  index: -1
+Comp 2_00024
+  rotate: true
+  xy: 778, 279
+  size: 249, 120
+  orig: 262, 143
+  offset: 6, 12
+  index: -1
+Comp 2_00028
+  rotate: true
+  xy: 778, 29
+  size: 248, 120
+  orig: 262, 143
+  offset: 7, 12
+  index: -1
+Comp 2_00032
+  rotate: true
+  xy: 534, 283
+  size: 250, 120
+  orig: 262, 143
+  offset: 6, 12
+  index: -1
+Comp 2_00036
+  rotate: true
+  xy: 246, 2
+  size: 250, 121
+  orig: 262, 143
+  offset: 6, 11
+  index: -1
+Comp 2_00040
+  rotate: true
+  xy: 288, 529
+  size: 250, 121
+  orig: 262, 143
+  offset: 6, 11
+  index: -1
+Comp 2_00044
+  rotate: true
+  xy: 288, 277
+  size: 250, 121
+  orig: 262, 143
+  offset: 6, 11
+  index: -1
+Comp 2_00048
+  rotate: true
+  xy: 369, 25
+  size: 250, 121
+  orig: 262, 143
+  offset: 6, 11
+  index: -1
+Comp 2_00052
+  rotate: true
+  xy: 411, 529
+  size: 250, 121
+  orig: 262, 143
+  offset: 6, 11
+  index: -1
+Comp 2_00056
+  rotate: false
+  xy: 534, 535
+  size: 249, 121
+  orig: 262, 143
+  offset: 6, 11
+  index: -1
+half_shield
+  rotate: true
+  xy: 2, 254
+  size: 525, 284
+  orig: 525, 286
+  offset: 0, 1
+  index: -1
+shield
+  rotate: true
+  xy: 2, 2
+  size: 250, 242
+  orig: 250, 242
+  offset: 0, 0
+  index: -1

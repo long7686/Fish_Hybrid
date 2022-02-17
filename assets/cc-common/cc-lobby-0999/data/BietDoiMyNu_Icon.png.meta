@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "137c6e34-82d2-4423-a87a-873d2591f564",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "BietDoiMyNu_Icon": {
+      "ver": "1.0.4",
+      "uuid": "44f94ca9-b594-40ed-b031-ce19f8ebaac2",
+      "rawTextureUuid": "137c6e34-82d2-4423-a87a-873d2591f564",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 256,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

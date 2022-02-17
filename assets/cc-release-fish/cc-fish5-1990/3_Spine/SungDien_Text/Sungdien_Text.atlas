@@ -1,0 +1,55 @@
+
+Sungdien_Text.png
+size: 483,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 112
+  size: 295, 135
+  orig: 297, 137
+  offset: 1, 1
+  index: -1
+1a
+  rotate: false
+  xy: 2, 3
+  size: 273, 107
+  orig: 275, 109
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 322, 259
+  size: 280, 154
+  orig: 282, 156
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 2, 391
+  size: 318, 148
+  orig: 320, 150
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 2, 249
+  size: 310, 140
+  orig: 312, 142
+  offset: 1, 1
+  index: -1
+Layer 1
+  rotate: true
+  xy: 407, 19
+  size: 238, 74
+  orig: 252, 87
+  offset: 7, 10
+  index: -1
+light
+  rotate: true
+  xy: 314, 2
+  size: 255, 91
+  orig: 269, 104
+  offset: 7, 6
+  index: -1

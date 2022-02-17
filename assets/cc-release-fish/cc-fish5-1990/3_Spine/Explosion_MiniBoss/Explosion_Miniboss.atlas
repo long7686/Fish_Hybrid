@@ -1,0 +1,223 @@
+
+Explosion_Miniboss.png
+size: 1097,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 259, 522
+  size: 250, 231
+  orig: 250, 250
+  offset: 0, 8
+  index: -1
+14/140025
+  rotate: false
+  xy: 492, 566
+  size: 223, 226
+  orig: 256, 256
+  offset: 18, 15
+  index: -1
+1shockwave
+  rotate: false
+  xy: 728, 608
+  size: 208, 208
+  orig: 250, 250
+  offset: 22, 22
+  index: -1
+2
+  rotate: false
+  xy: 492, 794
+  size: 234, 236
+  orig: 250, 256
+  offset: 9, 11
+  index: -1
+3
+  rotate: true
+  xy: 260, 780
+  size: 250, 230
+  orig: 250, 250
+  offset: 0, 20
+  index: -1
+5/50001
+  rotate: false
+  xy: 510, 201
+  size: 190, 190
+  orig: 256, 256
+  offset: 33, 34
+  index: -1
+5/50003
+  rotate: false
+  xy: 712, 203
+  size: 199, 199
+  orig: 256, 256
+  offset: 29, 29
+  index: -1
+5/50005
+  rotate: false
+  xy: 717, 404
+  size: 202, 202
+  orig: 256, 256
+  offset: 28, 27
+  index: -1
+5/50007
+  rotate: true
+  xy: 257, 4
+  size: 252, 251
+  orig: 256, 256
+  offset: 2, 2
+  index: -1
+5/50009
+  rotate: true
+  xy: 2, 2
+  size: 254, 253
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+5/50011
+  rotate: true
+  xy: 2, 516
+  size: 256, 255
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+5/50013
+  rotate: false
+  xy: 2, 774
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+5/50015
+  rotate: true
+  xy: 2, 258
+  size: 256, 255
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+5/50017
+  rotate: false
+  xy: 259, 271
+  size: 249, 249
+  orig: 256, 256
+  offset: 4, 3
+  index: -1
+5/50019
+  rotate: false
+  xy: 510, 20
+  size: 176, 179
+  orig: 256, 256
+  offset: 47, 45
+  index: -1
+5/50021
+  rotate: true
+  xy: 913, 54
+  size: 177, 180
+  orig: 256, 256
+  offset: 46, 44
+  index: -1
+5/50023
+  rotate: true
+  xy: 529, 393
+  size: 171, 181
+  orig: 256, 256
+  offset: 50, 43
+  index: -1
+5/50025
+  rotate: true
+  xy: 913, 233
+  size: 167, 181
+  orig: 256, 256
+  offset: 50, 44
+  index: -1
+5/50027
+  rotate: false
+  xy: 688, 20
+  size: 159, 179
+  orig: 256, 256
+  offset: 55, 47
+  index: -1
+5/50029
+  rotate: false
+  xy: 921, 402
+  size: 173, 161
+  orig: 256, 256
+  offset: 52, 48
+  index: -1
+5/50031
+  rotate: false
+  xy: 945, 883
+  size: 150, 147
+  orig: 256, 256
+  offset: 50, 48
+  index: -1
+lightgroup
+  rotate: false
+  xy: 945, 692
+  size: 87, 189
+  orig: 87, 189
+  offset: 0, 0
+  index: -1
+lightline
+  rotate: false
+  xy: 1075, 565
+  size: 20, 206
+  orig: 20, 206
+  offset: 0, 0
+  index: -1
+piece1
+  rotate: false
+  xy: 492, 524
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+piece2
+  rotate: false
+  xy: 1034, 773
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+piece3
+  rotate: false
+  xy: 1034, 743
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+piece4
+  rotate: true
+  xy: 1034, 647
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+piece5
+  rotate: false
+  xy: 1034, 844
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+piece6
+  rotate: false
+  xy: 1034, 711
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+piece7
+  rotate: true
+  xy: 1034, 805
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+underlightfx
+  rotate: true
+  xy: 728, 818
+  size: 212, 215
+  orig: 215, 215
+  offset: 1, 0
+  index: -1

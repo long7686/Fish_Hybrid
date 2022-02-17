@@ -1,0 +1,90 @@
+
+Collision_Miniboss.png
+size: 216,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spark Explosion/Spark Explosion 02
+  rotate: false
+  xy: 2, 41
+  size: 92, 97
+  orig: 135, 135
+  offset: 22, 22
+  index: -1
+Spark Explosion/Spark Explosion 03
+  rotate: true
+  xy: 96, 41
+  size: 97, 86
+  orig: 135, 135
+  offset: 28, 26
+  index: -1
+Spark Explosion/Spark Explosion 04
+  rotate: false
+  xy: 184, 100
+  size: 27, 25
+  orig: 135, 135
+  offset: 55, 47
+  index: -1
+Spark Explosion/Spark Explosion 05
+  rotate: false
+  xy: 184, 73
+  size: 27, 25
+  orig: 135, 135
+  offset: 55, 47
+  index: -1
+Spark Explosion/Spark Explosion 06
+  rotate: true
+  xy: 147, 9
+  size: 30, 27
+  orig: 135, 135
+  offset: 54, 44
+  index: -1
+Spark Explosion/Spark Explosion 07
+  rotate: true
+  xy: 90, 4
+  size: 35, 31
+  orig: 135, 135
+  offset: 52, 40
+  index: -1
+Spark Explosion/Spark Explosion 08
+  rotate: false
+  xy: 2, 3
+  size: 40, 36
+  orig: 135, 135
+  offset: 49, 35
+  index: -1
+Spark Explosion/Spark Explosion 09
+  rotate: false
+  xy: 44, 13
+  size: 44, 26
+  orig: 135, 135
+  offset: 48, 44
+  index: -1
+Spark Explosion/Spark Explosion 10
+  rotate: true
+  xy: 176, 3
+  size: 36, 22
+  orig: 135, 135
+  offset: 57, 41
+  index: -1
+Spark Explosion/Spark Explosion 11
+  rotate: true
+  xy: 123, 2
+  size: 37, 22
+  orig: 135, 135
+  offset: 56, 41
+  index: -1
+Spark Explosion/Spark Explosion 12
+  rotate: true
+  xy: 200, 127
+  size: 11, 14
+  orig: 135, 135
+  offset: 61, 38
+  index: -1
+Spark Explosion/Spark Explosion 13
+  rotate: false
+  xy: 44, 2
+  size: 8, 9
+  orig: 135, 135
+  offset: 60, 41
+  index: -1

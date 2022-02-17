@@ -1,0 +1,27 @@
+
+Frame_Jackpot.png
+size: 798,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_Khung_JP_C
+  rotate: false
+  xy: 562, 23
+  size: 234, 56
+  orig: 234, 56
+  offset: 0, 0
+  index: -1
+Khung_JP
+  rotate: false
+  xy: 2, 2
+  size: 302, 77
+  orig: 302, 77
+  offset: 0, 0
+  index: -1
+linewave
+  rotate: false
+  xy: 306, 28
+  size: 254, 51
+  orig: 255, 52
+  offset: 0, 1
+  index: -1

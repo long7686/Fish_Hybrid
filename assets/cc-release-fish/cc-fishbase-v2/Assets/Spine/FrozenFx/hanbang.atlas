@@ -1,0 +1,27 @@
+
+hanbang.png
+size: 343,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+snow
+  rotate: false
+  xy: 293, 59
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+snow_hanbang
+  rotate: false
+  xy: 2, 113
+  size: 333, 189
+  orig: 333, 189
+  offset: 0, 0
+  index: -1
+text_hanbang
+  rotate: false
+  xy: 2, 2
+  size: 289, 109
+  orig: 289, 109
+  offset: 0, 0
+  index: -1

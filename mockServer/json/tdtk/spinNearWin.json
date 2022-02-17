@@ -1,0 +1,59 @@
+{
+    "extend": {
+      
+    },
+    "lastEvent": {
+      "normalGameResult": {
+        "matrix": [
+          "7",
+          "6",
+          "5",
+          "8",
+          "8",
+          "8",
+          "1",
+          "8",
+          "A",
+          "7",
+          "5",
+          "5",
+          "7",
+          "K",
+          "6"
+        ]
+      }
+    },
+    "id": "ef9d49a5-e7d0-416c-9786-fc832ca0feaa",
+    "userId": "1f1d69a8-4de4-4ecf-8038-175c259a1796",
+    "serviceId": "9995",
+    "commandId": "5604a635-186a-4c9b-811a-04ecf5cfd8e5",
+    "version": 1,
+    "betDenom": 20,
+    "normalGameMatrix": [
+      "7",
+      "6",
+      "5",
+      "8",
+      "8",
+      "8",
+      "1",
+      "8",
+      "A",
+      "7",
+      "5",
+      "5",
+      "7",
+      "K",
+      "6"
+    ],
+    "normalGameTableFormat": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "isFinished": true,
+    "pvsReceivedTime": 1565015043249,
+    "stateType": "9995"
+  }

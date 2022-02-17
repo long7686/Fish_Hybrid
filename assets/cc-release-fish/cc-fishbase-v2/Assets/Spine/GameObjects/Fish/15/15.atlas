@@ -1,0 +1,27 @@
+
+15.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong
+  rotate: false
+  xy: 2, 11
+  size: 247, 230
+  orig: 247, 230
+  offset: 0, 0
+  index: -1
+fish2
+  rotate: false
+  xy: 251, 17
+  size: 240, 224
+  orig: 240, 224
+  offset: 0, 0
+  index: -1
+fish2a
+  rotate: true
+  xy: 2, 2
+  size: 7, 35
+  orig: 7, 35
+  offset: 0, 0
+  index: -1

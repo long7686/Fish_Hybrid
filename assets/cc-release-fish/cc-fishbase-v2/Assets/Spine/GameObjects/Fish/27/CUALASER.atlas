@@ -1,0 +1,62 @@
+
+CUALASER.png
+size: 395,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow_Cua
+  rotate: false
+  xy: 2, 68
+  size: 122, 136
+  orig: 122, 136
+  offset: 0, 0
+  index: -1
+cuabody
+  rotate: true
+  xy: 126, 2
+  size: 107, 123
+  orig: 107, 123
+  offset: 0, 0
+  index: -1
+cuacang1
+  rotate: true
+  xy: 251, 18
+  size: 77, 105
+  orig: 77, 105
+  offset: 0, 0
+  index: -1
+cuacangto
+  rotate: true
+  xy: 268, 97
+  size: 107, 125
+  orig: 107, 125
+  offset: 0, 0
+  index: -1
+cuachan
+  rotate: false
+  xy: 2, 9
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+cuachan2
+  rotate: true
+  xy: 79, 14
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+cuachan3
+  rotate: true
+  xy: 358, 39
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+sunglaser
+  rotate: true
+  xy: 126, 111
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1

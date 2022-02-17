@@ -1,0 +1,76 @@
+
+Explosion.png
+size: 857,768
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 436, 346
+  size: 419, 420
+  orig: 419, 420
+  offset: 0, 0
+  index: -1
+Fx/FX_C_01
+  rotate: true
+  xy: 146, 16
+  size: 123, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+Fx/FX_C_02
+  rotate: false
+  xy: 2, 5
+  size: 142, 134
+  orig: 142, 134
+  offset: 0, 0
+  index: -1
+Fx/FX_C_03
+  rotate: true
+  xy: 427, 2
+  size: 162, 155
+  orig: 162, 155
+  offset: 0, 0
+  index: -1
+Fx/FX_C_04
+  rotate: false
+  xy: 635, 178
+  size: 178, 166
+  orig: 179, 166
+  offset: 0, 0
+  index: -1
+Fx/FX_C_05
+  rotate: false
+  xy: 436, 166
+  size: 197, 178
+  orig: 197, 178
+  offset: 0, 0
+  index: -1
+Fx/FX_C_06
+  rotate: false
+  xy: 218, 146
+  size: 207, 186
+  orig: 208, 186
+  offset: 1, 0
+  index: -1
+Fx/FX_C_07
+  rotate: false
+  xy: 2, 141
+  size: 214, 191
+  orig: 215, 192
+  offset: 0, 0
+  index: -1
+glow1 back
+  rotate: false
+  xy: 635, 8
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 334
+  size: 432, 432
+  orig: 454, 473
+  offset: 22, 34
+  index: -1

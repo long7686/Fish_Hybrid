@@ -1,0 +1,20 @@
+
+Background_02.png
+size: 163,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NapCong_Bg02
+  rotate: false
+  xy: 2, 2
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 142, 122
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1

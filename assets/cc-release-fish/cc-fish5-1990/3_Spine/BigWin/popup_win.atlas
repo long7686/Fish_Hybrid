@@ -1,0 +1,83 @@
+
+popup_win.png
+size: 750,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF_Elip
+  rotate: true
+  xy: 2, 2
+  size: 259, 262
+  orig: 274, 274
+  offset: 11, 7
+  index: -1
+EF_Elip - Copy
+  rotate: true
+  xy: 414, 132
+  size: 129, 132
+  orig: 137, 137
+  offset: 6, 3
+  index: -1
+Group 12
+  rotate: true
+  xy: 266, 9
+  size: 104, 133
+  orig: 104, 133
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 414, 117
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+TCL_Star
+  rotate: false
+  xy: 650, 31
+  size: 52, 51
+  orig: 54, 52
+  offset: 1, 1
+  index: -1
+TL_Popup
+  rotate: false
+  xy: 656, 148
+  size: 92, 113
+  orig: 92, 113
+  offset: 0, 0
+  index: -1
+TSL_Hat
+  rotate: false
+  xy: 547, 2
+  size: 101, 80
+  orig: 101, 81
+  offset: 0, 1
+  index: -1
+TSL_Popup
+  rotate: true
+  xy: 401, 10
+  size: 103, 144
+  orig: 103, 144
+  offset: 0, 0
+  index: -1
+TSL_Wing
+  rotate: true
+  xy: 548, 84
+  size: 177, 106
+  orig: 178, 107
+  offset: 0, 1
+  index: -1
+elip_ww
+  rotate: false
+  xy: 266, 115
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 656, 121
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1

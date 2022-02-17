@@ -1,0 +1,116 @@
+{
+  "extend": {
+    "bonus1": [
+      "0;1500",
+      "1;1500"
+    ],
+    "bonusMatrix": [
+      "R1",
+      "R1",
+      "J",
+      "J",
+      "R1",
+      "J",
+      "J",
+      "J",
+      "J",
+      "J",
+      "J",
+      "J",
+      "J",
+      "J",
+      "J"
+    ],
+    "totalBonusCredit": 1500
+  },
+  "lastEvent": {
+    "bonusGameResult": {
+      "matrix": [
+        "R1",
+        "R1",
+        "J",
+        "J",
+        "R1",
+        "J",
+        "J",
+        "J",
+        "J",
+        "J",
+        "J",
+        "J",
+        "J",
+        "J",
+        "J"
+      ],
+      "matrixTransform": [
+        "R1",
+        "R1",
+        "J",
+        "J",
+        "R1",
+        "J",
+        "J",
+        "J",
+        "J",
+        "J",
+        "R",
+        "R",
+        "R",
+        "R",
+        "R"
+      ],
+      "bonusTransform": [
+        "10;100",
+        "11;300",
+        "12;200",
+        "13;600",
+        "14;300"
+      ],
+      "bonus1": [
+        "0;1500",
+        "1;1500"
+      ],
+      "bonus1Transform": [
+        "0;1500",
+        "1;1500"
+      ],
+      "totalBonusCredit": 1500
+    }
+  },
+  "id": "c0bdd088-9b34-4edb-bab0-8f96559f3ff3",
+  "userId": "6951de0d-cddc-46a4-abde-3bb44cce0dec",
+  "serviceId": "9988",
+  "commandId": "6f0c8926-2901-4eac-b65a-257919be499e",
+  "version": 2,
+  "betId": "10",
+  "normalGameMatrix": [
+    "J",
+    "4",
+    "J",
+    "7",
+    "J",
+    "6",
+    "7",
+    "7",
+    "6",
+    "6",
+    "R",
+    "R",
+    "R",
+    "R",
+    "R"
+  ],
+  "normalGameTableFormat": [
+    3,
+    3,
+    3,
+    3,
+    3
+  ],
+  "bonusGameRemain": 3,
+  "bonusGameTotal": 3,
+  "bonusPlayRemain": 1,
+  "isFinished": false,
+  "pvsReceivedTime": 1570683122058,
+  "stateType": "9988"
+}

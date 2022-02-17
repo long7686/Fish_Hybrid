@@ -1,0 +1,83 @@
+
+JP_Notification.png
+size: 875,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gozilla
+  rotate: false
+  xy: 2, 13
+  size: 268, 234
+  orig: 270, 235
+  offset: 1, 0
+  index: -1
+horn
+  rotate: true
+  xy: 564, 22
+  size: 225, 172
+  orig: 227, 174
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 738, 144
+  size: 118, 103
+  orig: 120, 105
+  offset: 1, 1
+  index: -1
+light_body
+  rotate: true
+  xy: 738, 60
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+popup
+  rotate: false
+  xy: 272, 51
+  size: 290, 196
+  orig: 291, 197
+  offset: 0, 0
+  index: -1
+popup_light
+  rotate: true
+  xy: 398, 15
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+shard1
+  rotate: false
+  xy: 272, 2
+  size: 60, 47
+  orig: 62, 49
+  offset: 1, 1
+  index: -1
+shard2
+  rotate: true
+  xy: 738, 9
+  size: 49, 71
+  orig: 51, 73
+  offset: 1, 1
+  index: -1
+shard3
+  rotate: false
+  xy: 808, 79
+  size: 65, 63
+  orig: 67, 65
+  offset: 1, 1
+  index: -1
+shard4
+  rotate: true
+  xy: 334, 4
+  size: 45, 62
+  orig: 47, 64
+  offset: 1, 1
+  index: -1
+shard5
+  rotate: true
+  xy: 811, 28
+  size: 49, 61
+  orig: 51, 63
+  offset: 1, 1
+  index: -1

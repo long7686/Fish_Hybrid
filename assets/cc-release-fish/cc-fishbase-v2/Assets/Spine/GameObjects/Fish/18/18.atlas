@@ -1,0 +1,34 @@
+
+18.png
+size: 347,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong
+  rotate: true
+  xy: 2, 2
+  size: 158, 168
+  orig: 158, 168
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 172, 97
+  size: 63, 173
+  orig: 63, 173
+  offset: 0, 0
+  index: -1
+vay
+  rotate: false
+  xy: 172, 7
+  size: 81, 88
+  orig: 81, 88
+  offset: 0, 0
+  index: -1
+vay1
+  rotate: false
+  xy: 255, 7
+  size: 81, 88
+  orig: 81, 88
+  offset: 0, 0
+  index: -1

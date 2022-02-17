@@ -1,0 +1,72 @@
+{
+    "extend": {
+      
+    },
+    "lastEvent": {
+      "normalGameResult": {
+        "matrix": [
+          "4",
+          "5",
+          "6",
+          "6",
+          "K",
+          "1",
+          "5",
+          "3",
+          "K",
+          "2",
+          "K",
+          "2",
+          "K",
+          "5",
+          "7"
+        ],
+        "winAmount": 7680,
+        "payLines": [
+          "5;4480.00;5;4",
+          "6;1920.00;5;2",
+          "4;1280.00;5;1"
+        ]
+      }
+    },
+    "id": "57c77ee4-fb5d-4377-8cbf-2db7a7758132",
+    "userId": "68e5ef10-5451-455b-9076-871907548752",
+    "serviceId": "9995",
+    "commandId": "aa156f64-9b68-41c9-ae1b-da9625173905",
+    "version": 1,
+    "betDenom": 20,
+    "winAmount": 7680,
+    "normalGameMatrix": [
+      "4",
+      "5",
+      "6",
+      "6",
+      "K",
+      "1",
+      "5",
+      "3",
+      "K",
+      "2",
+      "K",
+      "2",
+      "K",
+      "5",
+      "7"
+    ],
+    "normalGameTableFormat": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "normalGamePayLines": [
+      "5;4480.00;5;4",
+      "6;1920.00;5;2",
+      "4;1280.00;5;1"
+    ],
+    "normalGameWinAmount": 7680,
+    "isFinished": true,
+    "pvsReceivedTime": 1564540408839,
+    "stateType": "9995"
+}

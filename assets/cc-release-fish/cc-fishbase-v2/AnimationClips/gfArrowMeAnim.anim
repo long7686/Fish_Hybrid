@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "DTArrowMeAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            300,
+            0
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            0,
+            360,
+            0
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            0,
+            300,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

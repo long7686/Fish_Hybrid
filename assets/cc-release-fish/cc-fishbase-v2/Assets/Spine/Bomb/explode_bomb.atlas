@@ -1,0 +1,48 @@
+
+explode_bomb.png
+size: 641,339
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Explosion 03
+  rotate: true
+  xy: 480, 25
+  size: 136, 127
+  orig: 136, 127
+  offset: 0, 0
+  index: -1
+blur
+  rotate: false
+  xy: 337, 6
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+exp2
+  rotate: false
+  xy: 521, 211
+  size: 118, 126
+  orig: 118, 126
+  offset: 0, 0
+  index: -1
+exp3
+  rotate: false
+  xy: 337, 20
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+exp4
+  rotate: false
+  xy: 337, 163
+  size: 182, 174
+  orig: 182, 174
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 2
+  size: 333, 335
+  orig: 333, 335
+  offset: 0, 0
+  index: -1

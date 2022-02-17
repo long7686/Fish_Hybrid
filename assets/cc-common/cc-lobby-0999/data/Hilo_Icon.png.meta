@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "775512a0-f62a-4574-bdd1-8d9527a2dbc6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "Hilo_Icon": {
+      "ver": "1.0.4",
+      "uuid": "a5b92481-e444-40c0-83ab-b9db189e1821",
+      "rawTextureUuid": "775512a0-f62a-4574-bdd1-8d9527a2dbc6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 259,
+      "height": 264,
+      "rawWidth": 259,
+      "rawHeight": 264,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

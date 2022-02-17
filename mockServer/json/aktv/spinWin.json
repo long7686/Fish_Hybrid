@@ -1,0 +1,84 @@
+{
+  "winAmount": 2400,
+  "freeSpinOption": [
+    
+  ],
+  "miniGameMatrix": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "matrix": [
+    "5",
+    "8",
+    "5",
+    "2",
+    "5",
+    "5",
+    "K",
+    "4",
+    "4",
+    "8",
+    "4",
+    "4",
+    "8",
+    "6",
+    "2"
+  ],
+  "isFinished": true,
+  "userId": "68e5ef10-5451-455b-9076-871907548752",
+  "commandId": "f556a191-05f7-40a7-8d48-23c988688a51",
+  "version": 1,
+  "payLines": [
+    "5;1600.00;3;2;12",
+    "4;800.00;4;2;4"
+  ],
+  "betDenom": 100,
+  "miniGameRemain": 0,
+  "lastEvent": {
+    "normalSpinResult": {
+      "winAmount": 2400,
+      "freeSpinOption": [
+        
+      ],
+      "miniGame": 0,
+      "matrix": [
+        "5",
+        "8",
+        "5",
+        "2",
+        "5",
+        "5",
+        "K",
+        "4",
+        "4",
+        "8",
+        "4",
+        "4",
+        "8",
+        "6",
+        "2"
+      ],
+      "payLines": [
+        "5;1600.00;3;2;12",
+        "4;800.00;4;2;4"
+      ]
+    }
+  },
+  "freeSpinRemain": 0,
+  "miniGameCount": 0,
+  "id": "5bc2f1af-936a-4aa4-8ee4-7916f2a5b4c1",
+  "serviceId": 9998,
+  "freeSpinCount": 0,
+  "pvsReceivedTime": 1564114117288,
+  "stateType": "9998"
+}

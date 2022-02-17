@@ -1,0 +1,70 @@
+{
+    "extend": {
+      
+    },
+    "lastEvent": {
+      "normalGameResult": {
+        "matrix": [
+          "A",
+          "9",
+          "3",
+          "8",
+          "6",
+          "A",
+          "8",
+          "8",
+          "9",
+          "A",
+          "9",
+          "2",
+          "3",
+          "7",
+          "5",
+          "6",
+          "9",
+          "3",
+          "9"
+        ],
+        "freeGame": 5
+      }
+    },
+    "id": "d4e33417-3274-4aa4-9695-ff72986b3707",
+    "userId": "68e5ef10-5451-455b-9076-871907548752",
+    "serviceId": "9997",
+    "commandId": "b45fccff-9231-423b-acec-97d0e0515c80",
+    "version": 1,
+    "betDenom": 100,
+    "normalGameMatrix": [
+      "A",
+      "9",
+      "3",
+      "8",
+      "6",
+      "A",
+      "8",
+      "8",
+      "9",
+      "A",
+      "9",
+      "2",
+      "3",
+      "7",
+      "5",
+      "6",
+      "9",
+      "3",
+      "9"
+    ],
+    "normalGameTableFormat": [
+      3,
+      4,
+      5,
+      4,
+      3
+    ],
+    "freeGameRemain": 5,
+    "freeGameTotal": 5,
+    "isFinished": false,
+    "pvsReceivedTime": 1563811597799,
+    "stateType": "9997"
+  }

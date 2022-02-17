@@ -1,0 +1,50 @@
+{
+"skeleton": { "hash": "P7uyA9zSBvs2KDBNJAvH20YLjis", "spine": "3.7.94", "width": 189, "height": 189 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "All", "parent": "root", "scaleX": 1.4, "scaleY": 1.4 },
+	{ "name": "MetalHit", "parent": "All" }
+],
+"slots": [
+	{ "name": "export Metal Hit/Spark Explosion/Spark Explosion 01", "bone": "MetalHit", "attachment": "Spark Explosion/Spark Explosion 02" }
+],
+"skins": {
+	"default": {
+		"export Metal Hit/Spark Explosion/Spark Explosion 01": {
+			"Spark Explosion/Spark Explosion 02": { "width": 135, "height": 135 },
+			"Spark Explosion/Spark Explosion 03": { "width": 135, "height": 135 },
+			"Spark Explosion/Spark Explosion 04": { "width": 135, "height": 135 },
+			"Spark Explosion/Spark Explosion 05": { "width": 135, "height": 135 },
+			"Spark Explosion/Spark Explosion 06": { "width": 135, "height": 135 },
+			"Spark Explosion/Spark Explosion 07": { "width": 135, "height": 135 },
+			"Spark Explosion/Spark Explosion 08": { "width": 135, "height": 135 },
+			"Spark Explosion/Spark Explosion 09": { "width": 135, "height": 135 },
+			"Spark Explosion/Spark Explosion 10": { "width": 135, "height": 135 },
+			"Spark Explosion/Spark Explosion 11": { "width": 135, "height": 135 },
+			"Spark Explosion/Spark Explosion 12": { "width": 135, "height": 135 },
+			"Spark Explosion/Spark Explosion 13": { "width": 135, "height": 135 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"export Metal Hit/Spark Explosion/Spark Explosion 01": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Spark Explosion/Spark Explosion 03" },
+					{ "time": 0.1, "name": "Spark Explosion/Spark Explosion 04" },
+					{ "time": 0.1333, "name": "Spark Explosion/Spark Explosion 05" },
+					{ "time": 0.1667, "name": "Spark Explosion/Spark Explosion 06" },
+					{ "time": 0.2, "name": "Spark Explosion/Spark Explosion 07" },
+					{ "time": 0.2333, "name": "Spark Explosion/Spark Explosion 08" },
+					{ "time": 0.2667, "name": "Spark Explosion/Spark Explosion 09" },
+					{ "time": 0.3, "name": "Spark Explosion/Spark Explosion 10" },
+					{ "time": 0.3333, "name": "Spark Explosion/Spark Explosion 11" },
+					{ "time": 0.3667, "name": "Spark Explosion/Spark Explosion 12" },
+					{ "time": 0.4, "name": "Spark Explosion/Spark Explosion 13" }
+				]
+			}
+		}
+	}
+}
+}

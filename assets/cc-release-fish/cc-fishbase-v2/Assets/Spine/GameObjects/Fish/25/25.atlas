@@ -1,0 +1,55 @@
+
+25.png
+size: 550,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong
+  rotate: false
+  xy: 2, 6
+  size: 352, 277
+  orig: 352, 277
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: true
+  xy: 476, 16
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 356, 2
+  size: 281, 118
+  orig: 281, 118
+  offset: 0, 0
+  index: -1
+vay
+  rotate: false
+  xy: 505, 58
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+vay1
+  rotate: false
+  xy: 505, 15
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+vay2
+  rotate: false
+  xy: 476, 193
+  size: 72, 90
+  orig: 72, 90
+  offset: 0, 0
+  index: -1
+vay3
+  rotate: false
+  xy: 476, 101
+  size: 72, 90
+  orig: 72, 90
+  offset: 0, 0
+  index: -1

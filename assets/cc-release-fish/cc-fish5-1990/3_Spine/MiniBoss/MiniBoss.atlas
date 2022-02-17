@@ -1,0 +1,258 @@
+
+MiniBoss.png
+size: 993,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChiTietPhai
+  rotate: false
+  xy: 264, 40
+  size: 146, 34
+  orig: 148, 35
+  offset: 0, 1
+  index: -1
+ChiTietTrai
+  rotate: false
+  xy: 264, 7
+  size: 148, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+CucNangluongXanh
+  rotate: false
+  xy: 715, 126
+  size: 152, 91
+  orig: 153, 92
+  offset: 0, 1
+  index: -1
+Duoi
+  rotate: false
+  xy: 414, 2
+  size: 73, 19
+  orig: 74, 19
+  offset: 0, 0
+  index: -1
+Empty
+  rotate: false
+  xy: 928, 100
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+FX
+  rotate: false
+  xy: 873, 75
+  size: 53, 27
+  orig: 55, 29
+  offset: 1, 1
+  index: -1
+OngNangLuongPhai
+  rotate: false
+  xy: 2, 8
+  size: 260, 66
+  orig: 260, 67
+  offset: 0, 1
+  index: -1
+OngNangLuongPhaiShadow
+  rotate: false
+  xy: 869, 156
+  size: 112, 32
+  orig: 124, 32
+  offset: 6, 0
+  index: -1
+OngNangLuongTrai
+  rotate: false
+  xy: 470, 152
+  size: 243, 65
+  orig: 243, 66
+  offset: 0, 1
+  index: -1
+Particle Violet
+  rotate: false
+  xy: 814, 67
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+ThanTau
+  rotate: false
+  xy: 2, 76
+  size: 466, 141
+  orig: 467, 142
+  offset: 0, 1
+  index: -1
+ThanTauShadow
+  rotate: false
+  xy: 470, 79
+  size: 190, 71
+  orig: 199, 71
+  offset: 4, 0
+  index: -1
+bubble
+  rotate: true
+  xy: 981, 87
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+bubble2
+  rotate: true
+  xy: 974, 140
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+fan1
+  rotate: true
+  xy: 829, 39
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+fan10
+  rotate: true
+  xy: 923, 44
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+fan2
+  rotate: true
+  xy: 412, 51
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+fan3
+  rotate: true
+  xy: 836, 12
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+fan4
+  rotate: true
+  xy: 928, 72
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+fan5
+  rotate: true
+  xy: 775, 39
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+fan6
+  rotate: true
+  xy: 886, 17
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+fan7
+  rotate: true
+  xy: 662, 127
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+fan8
+  rotate: true
+  xy: 938, 16
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+fan9
+  rotate: true
+  xy: 939, 100
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+fx/than0001
+  rotate: true
+  xy: 873, 104
+  size: 22, 64
+  orig: 27, 153
+  offset: 5, 84
+  index: -1
+fx/than0002
+  rotate: true
+  xy: 869, 128
+  size: 26, 103
+  orig: 27, 153
+  offset: 1, 50
+  index: -1
+fx/than0003
+  rotate: true
+  xy: 869, 190
+  size: 27, 122
+  orig: 27, 153
+  offset: 0, 30
+  index: -1
+fx/than0004
+  rotate: true
+  xy: 489, 7
+  size: 14, 66
+  orig: 14, 77
+  offset: 0, 9
+  index: -1
+fx/than0005
+  rotate: true
+  xy: 564, 10
+  size: 27, 142
+  orig: 27, 153
+  offset: 0, 0
+  index: -1
+fx/than0006
+  rotate: true
+  xy: 624, 39
+  size: 27, 149
+  orig: 27, 153
+  offset: 0, 0
+  index: -1
+fx/than0007
+  rotate: true
+  xy: 662, 97
+  size: 27, 150
+  orig: 27, 153
+  offset: 0, 0
+  index: -1
+fx/than0008
+  rotate: true
+  xy: 662, 68
+  size: 27, 150
+  orig: 27, 153
+  offset: 0, 0
+  index: -1
+fx/than0009
+  rotate: true
+  xy: 470, 50
+  size: 27, 152
+  orig: 27, 153
+  offset: 0, 0
+  index: -1
+fx/than0010
+  rotate: true
+  xy: 414, 23
+  size: 25, 148
+  orig: 27, 153
+  offset: 0, 0
+  index: -1
+fx/than0011
+  rotate: true
+  xy: 708, 13
+  size: 24, 126
+  orig: 27, 153
+  offset: 0, 0
+  index: -1
+luaduoi
+  rotate: false
+  xy: 882, 51
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1

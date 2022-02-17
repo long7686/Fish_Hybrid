@@ -1,0 +1,356 @@
+
+DragonBoss.png
+size: 1618,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm Left
+  rotate: false
+  xy: 433, 2
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+Arm Right
+  rotate: false
+  xy: 1463, 389
+  size: 153, 132
+  orig: 153, 132
+  offset: 0, 0
+  index: -1
+Beard Chin
+  rotate: false
+  xy: 1246, 38
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+Beard Long
+  rotate: false
+  xy: 522, 196
+  size: 322, 7
+  orig: 322, 7
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 424
+  size: 1459, 97
+  orig: 1459, 97
+  offset: 0, 0
+  index: -1
+Body Glow
+  rotate: false
+  xy: 2, 205
+  size: 1164, 144
+  orig: 1164, 144
+  offset: 0, 0
+  index: -1
+Electric Eye 1
+  rotate: false
+  xy: 1014, 59
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Electric Eye 10
+  rotate: false
+  xy: 666, 33
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Electric Eye 11
+  rotate: false
+  xy: 1366, 26
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Electric Eye 12
+  rotate: false
+  xy: 1431, 36
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Electric Eye 13
+  rotate: false
+  xy: 1496, 36
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Electric Eye 14
+  rotate: true
+  xy: 1588, 110
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Electric Eye 15
+  rotate: false
+  xy: 1431, 9
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Electric Eye 2
+  rotate: false
+  xy: 2, 9
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Electric Eye 3
+  rotate: false
+  xy: 496, 14
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Electric Eye 4
+  rotate: false
+  xy: 1246, 11
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Electric Eye 5
+  rotate: false
+  xy: 1366, 53
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Electric Eye 6
+  rotate: false
+  xy: 67, 9
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Electric Eye 7
+  rotate: false
+  xy: 561, 14
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Electric Eye 8
+  rotate: false
+  xy: 132, 9
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Electric Eye 9
+  rotate: true
+  xy: 1584, 175
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Forearm Left
+  rotate: false
+  xy: 1014, 86
+  size: 149, 43
+  orig: 149, 43
+  offset: 0, 0
+  index: -1
+Fur Arm Right
+  rotate: true
+  xy: 1313, 34
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+Fur Back
+  rotate: false
+  xy: 2, 351
+  size: 1313, 71
+  orig: 1313, 71
+  offset: 0, 0
+  index: -1
+Hair Bot
+  rotate: true
+  xy: 753, 27
+  size: 167, 89
+  orig: 167, 89
+  offset: 0, 0
+  index: -1
+Hair Side
+  rotate: false
+  xy: 1438, 63
+  size: 148, 97
+  orig: 148, 97
+  offset: 0, 0
+  index: -1
+Hair Top
+  rotate: false
+  xy: 522, 82
+  size: 229, 112
+  orig: 229, 112
+  offset: 0, 0
+  index: -1
+Head Opt
+  rotate: false
+  xy: 844, 59
+  size: 168, 99
+  orig: 168, 99
+  offset: 0, 0
+  index: -1
+Horn Big Left
+  rotate: false
+  xy: 1079, 9
+  size: 165, 69
+  orig: 165, 69
+  offset: 0, 0
+  index: -1
+Horn Big Right
+  rotate: true
+  xy: 1438, 162
+  size: 187, 85
+  orig: 187, 85
+  offset: 0, 0
+  index: -1
+Horn Small
+  rotate: true
+  xy: 1584, 240
+  size: 147, 26
+  orig: 147, 26
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 253, 118
+  size: 267, 85
+  orig: 267, 85
+  offset: 0, 0
+  index: -1
+Lightning 1
+  rotate: false
+  xy: 1317, 351
+  size: 205, 36
+  orig: 205, 36
+  offset: 0, 0
+  index: -1
+Lightning 2
+  rotate: true
+  xy: 1525, 182
+  size: 205, 57
+  orig: 205, 57
+  offset: 0, 0
+  index: -1
+Lightning 3
+  rotate: false
+  xy: 844, 2
+  size: 205, 55
+  orig: 205, 55
+  offset: 0, 0
+  index: -1
+Lightning 4
+  rotate: false
+  xy: 2, 36
+  size: 221, 49
+  orig: 221, 49
+  offset: 0, 0
+  index: -1
+Lightning 5
+  rotate: false
+  xy: 253, 58
+  size: 206, 58
+  orig: 206, 58
+  offset: 0, 0
+  index: -1
+Lightning 6
+  rotate: false
+  xy: 846, 160
+  size: 206, 43
+  orig: 206, 43
+  offset: 0, 0
+  index: -1
+Lightning 7
+  rotate: false
+  xy: 225, 12
+  size: 206, 44
+  orig: 206, 44
+  offset: 0, 0
+  index: -1
+Lightning 8
+  rotate: false
+  xy: 461, 41
+  size: 203, 39
+  orig: 203, 39
+  offset: 0, 0
+  index: -1
+Mouth Behind Opt
+  rotate: false
+  xy: 1317, 389
+  size: 84, 33
+  orig: 84, 33
+  offset: 0, 0
+  index: -1
+Parts Glow
+  rotate: false
+  xy: 1168, 80
+  size: 268, 269
+  orig: 268, 269
+  offset: 0, 0
+  index: -1
+Tail Opt
+  rotate: false
+  xy: 2, 87
+  size: 249, 116
+  orig: 249, 116
+  offset: 0, 0
+  index: -1
+Teeth Above Side
+  rotate: false
+  xy: 433, 41
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+Teeth Below Mid
+  rotate: false
+  xy: 461, 108
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Teeth Below Side
+  rotate: false
+  xy: 225, 71
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+Teeth Dull
+  rotate: true
+  xy: 1159, 172
+  size: 31, 7
+  orig: 31, 7
+  offset: 0, 0
+  index: -1
+Thigh Left
+  rotate: true
+  xy: 1054, 131
+  size: 72, 103
+  orig: 72, 103
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: false
+  xy: 666, 60
+  size: 85, 20
+  orig: 85, 20
+  offset: 0, 0
+  index: -1
+Tooth Big
+  rotate: false
+  xy: 1403, 403
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1

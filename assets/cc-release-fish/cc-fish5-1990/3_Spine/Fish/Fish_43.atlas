@@ -1,0 +1,181 @@
+
+Fish_1990.png
+size: 888,888
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+43_Bomb/armor
+  rotate: false
+  xy: 735, 388
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+43_Bomb/armor1
+  rotate: true
+  xy: 604, 270
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+43_Bomb/body
+  rotate: false
+  xy: 689, 760
+  size: 129, 126
+  orig: 129, 126
+  offset: 0, 0
+  index: -1
+43_Bomb/body0
+  rotate: false
+  xy: 303, 542
+  size: 129, 126
+  orig: 129, 126
+  offset: 0, 0
+  index: -1
+43_Bomb/body1
+  rotate: false
+  xy: 444, 662
+  size: 133, 116
+  orig: 133, 116
+  offset: 0, 0
+  index: -1
+43_Bomb/body_outer
+  rotate: false
+  xy: 291, 317
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+43_Bomb/eye
+  rotate: false
+  xy: 428, 432
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+43_Bomb/spike0
+  rotate: false
+  xy: 821, 41
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+43_Bomb/spike0a
+  rotate: false
+  xy: 821, 32
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+43_Bomb/spike1
+  rotate: true
+  xy: 870, 56
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+43_Bomb/spike1a
+  rotate: true
+  xy: 811, 33
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+43_Bomb/spike2
+  rotate: false
+  xy: 855, 133
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+43_Bomb/spike2a
+  rotate: true
+  xy: 811, 18
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+43_Bomb/spike5
+  rotate: true
+  xy: 579, 662
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+43_Bomb/spike5a
+  rotate: true
+  xy: 641, 2
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+43_Bomb/spike6
+  rotate: false
+  xy: 852, 91
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+43_Bomb/spike6a
+  rotate: false
+  xy: 852, 70
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+43_Bomb/spike7
+  rotate: true
+  xy: 852, 50
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+43_Bomb/spike7a
+  rotate: true
+  xy: 870, 146
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+43_Bomb/tail
+  rotate: true
+  xy: 876, 187
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+43_Bomb/tailtop
+  rotate: false
+  xy: 434, 465
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+43_Bomb/tailwing
+  rotate: false
+  xy: 813, 326
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: -1
+43_Bomb/tailwing1
+  rotate: false
+  xy: 813, 309
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: -1
+43_Bomb/wing
+  rotate: true
+  xy: 528, 116
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+43_Bomb/wing1
+  rotate: false
+  xy: 466, 32
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1

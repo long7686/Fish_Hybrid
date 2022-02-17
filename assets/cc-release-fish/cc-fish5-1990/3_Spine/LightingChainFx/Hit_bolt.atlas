@@ -1,0 +1,48 @@
+
+Fx_Lazer.png
+size: 1699,785
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit1
+  rotate: true
+  xy: 1469, 143
+  size: 70, 64
+  orig: 134, 96
+  offset: 31, 6
+  index: -1
+hit2
+  rotate: true
+  xy: 2, 6
+  size: 104, 77
+  orig: 134, 96
+  offset: 14, 11
+  index: -1
+hit3
+  rotate: false
+  xy: 1564, 94
+  size: 111, 79
+  orig: 134, 96
+  offset: 10, 14
+  index: -1
+hit4
+  rotate: false
+  xy: 81, 26
+  size: 123, 84
+  orig: 134, 96
+  offset: 9, 10
+  index: -1
+hit5
+  rotate: true
+  xy: 1469, 26
+  size: 115, 70
+  orig: 134, 96
+  offset: 8, 26
+  index: -1
+hitouter
+  rotate: false
+  xy: 1470, 683
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

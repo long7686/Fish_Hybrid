@@ -1,0 +1,14 @@
+{
+    "wallet": "10000",
+    "playSessions": [
+      {
+        "gameId": "9999",
+        "versionFrom": "0",
+        "versionTo": "1",
+        "id": "30",
+        "plate": {
+            "beadPlate": ["Win", "Lose", "Lose", "Lose", "Tie", "Win", "Lose", "Win", "Tie", "Win", "Tie", "Win", "Win", "Win", "Lose"]
+        }
+      }
+    ]
+  }

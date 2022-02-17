@@ -1,0 +1,293 @@
+
+37.png
+size: 929,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard
+  rotate: false
+  xy: 268, 15
+  size: 12, 33
+  orig: 12, 33
+  offset: 0, 0
+  index: -1
+Beard Highlight
+  rotate: false
+  xy: 282, 15
+  size: 12, 33
+  orig: 12, 33
+  offset: 0, 0
+  index: -1
+Beard Shadow
+  rotate: false
+  xy: 281, 5
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 616, 4
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+Body Highlight
+  rotate: true
+  xy: 756, 7
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+Fin Left
+  rotate: false
+  xy: 310, 3
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+Fin Right
+  rotate: false
+  xy: 910, 157
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Fin Top
+  rotate: true
+  xy: 908, 46
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+Fx/102 (1)
+  rotate: false
+  xy: 809, 4
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+Fx/102 (2)
+  rotate: false
+  xy: 414, 61
+  size: 66, 109
+  orig: 66, 109
+  offset: 0, 0
+  index: -1
+Fx/102 (3)
+  rotate: false
+  xy: 584, 79
+  size: 82, 91
+  orig: 82, 91
+  offset: 0, 0
+  index: -1
+Fx/102 (4)
+  rotate: false
+  xy: 482, 66
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+Fx/102 (5)
+  rotate: false
+  xy: 320, 58
+  size: 92, 112
+  orig: 92, 112
+  offset: 0, 0
+  index: -1
+Fx/102 (6)
+  rotate: false
+  xy: 108, 50
+  size: 105, 120
+  orig: 105, 120
+  offset: 0, 0
+  index: -1
+Fx/102 (7)
+  rotate: false
+  xy: 2, 43
+  size: 104, 127
+  orig: 104, 127
+  offset: 0, 0
+  index: -1
+Fx/102 (8)
+  rotate: false
+  xy: 215, 50
+  size: 103, 120
+  orig: 103, 120
+  offset: 0, 0
+  index: -1
+Fx/13 (3)
+  rotate: true
+  xy: 354, 2
+  size: 54, 65
+  orig: 54, 68
+  offset: 0, 2
+  index: -1
+Fx/90 (1)
+  rotate: true
+  xy: 669, 3
+  size: 76, 85
+  orig: 76, 85
+  offset: 0, 0
+  index: -1
+Fx/90 (2)
+  rotate: true
+  xy: 799, 87
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+Fx/90 (3)
+  rotate: true
+  xy: 494, 3
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+Fx/90 (4)
+  rotate: true
+  xy: 421, 2
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Fx/90 (5)
+  rotate: false
+  xy: 565, 3
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+Fx/90 (6)
+  rotate: true
+  xy: 129, 7
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+Highlight
+  rotate: false
+  xy: 268, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: false
+  xy: 882, 71
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+Lantern
+  rotate: true
+  xy: 881, 49
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 95, 8
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 242, 8
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+Particle
+  rotate: false
+  xy: 310, 18
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 738, 82
+  size: 88, 59
+  orig: 88, 59
+  offset: 0, 0
+  index: -1
+Stone/Beard Stone
+  rotate: false
+  xy: 296, 15
+  size: 12, 33
+  orig: 12, 33
+  offset: 0, 0
+  index: -1
+Stone/Body Left Stone
+  rotate: false
+  xy: 18, 7
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+Stone/Body Right Stone
+  rotate: false
+  xy: 180, 8
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+Stone/Dust
+  rotate: true
+  xy: 668, 81
+  size: 89, 68
+  orig: 89, 68
+  offset: 0, 0
+  index: -1
+Stone/Fin Left Stone
+  rotate: false
+  xy: 332, 3
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+Stone/Fin Right Stone
+  rotate: false
+  xy: 910, 142
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Stone/Fin Top Stone
+  rotate: false
+  xy: 881, 28
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+Stone/Jaw Stone
+  rotate: false
+  xy: 882, 121
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+Stone/Lantern Stone 1
+  rotate: false
+  xy: 881, 2
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Stone/Lantern Stone 2
+  rotate: false
+  xy: 906, 24
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Teeth
+  rotate: false
+  xy: 2, 2
+  size: 14, 39
+  orig: 14, 39
+  offset: 0, 0
+  index: -1

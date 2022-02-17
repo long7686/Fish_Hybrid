@@ -1,0 +1,90 @@
+
+boss_tienca.png
+size: 801,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 668, 307
+  size: 127, 226
+  orig: 127, 226
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: true
+  xy: 2, 163
+  size: 370, 664
+  orig: 370, 664
+  offset: 0, 0
+  index: -1
+duoi2
+  rotate: true
+  xy: 211, 80
+  size: 81, 170
+  orig: 81, 170
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 339, 21
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: true
+  xy: 705, 24
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 616, 5
+  size: 61, 87
+  orig: 61, 87
+  offset: 0, 0
+  index: -1
+nguc
+  rotate: false
+  xy: 211, 2
+  size: 126, 76
+  orig: 126, 76
+  offset: 0, 0
+  index: -1
+silk
+  rotate: true
+  xy: 616, 68
+  size: 70, 183
+  orig: 70, 183
+  offset: 0, 0
+  index: -1
+tay1
+  rotate: true
+  xy: 383, 84
+  size: 77, 231
+  orig: 77, 231
+  offset: 0, 0
+  index: -1
+tay1a
+  rotate: true
+  xy: 383, 5
+  size: 77, 231
+  orig: 77, 231
+  offset: 0, 0
+  index: -1
+toc truoc
+  rotate: false
+  xy: 668, 140
+  size: 110, 165
+  orig: 110, 165
+  offset: 0, 0
+  index: -1
+tocsau
+  rotate: true
+  xy: 2, 4
+  size: 157, 207
+  orig: 157, 207
+  offset: 0, 0
+  index: -1
