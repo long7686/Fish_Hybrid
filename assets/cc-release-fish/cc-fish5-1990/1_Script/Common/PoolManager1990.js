@@ -27,7 +27,7 @@ const PoolManager1990 = cc.Class({
     },
     initPools(){
         this.pools = [];
-        this.dragon = cc.instantiate(this.listPrefab["Godzilla1990"]).getComponent('Godzilla1990');
+        this.dragon = cc.instantiate(this.listPrefab["Dragon"]).getComponent('gfDragon');
 
         //type, prefabName, mainComponent, count
         this.initPool(POOL_TYPE.SpineFish, "SpineFish1990", "SpineFish1990", 25);

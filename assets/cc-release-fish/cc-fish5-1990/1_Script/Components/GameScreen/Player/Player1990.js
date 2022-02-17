@@ -45,6 +45,13 @@ cc.Class({
         }
 
     },
+
+    checkHaveBallTrayOnActived() {
+        if (this.ballTray && !this.ballTray.isAppear()) {
+            this.resumeBallTray(0);
+        }
+    },
+    
     changeGunLaser() {
         if (this.isMe) {
             if (!DataStore.instance.isAutoBot()) {

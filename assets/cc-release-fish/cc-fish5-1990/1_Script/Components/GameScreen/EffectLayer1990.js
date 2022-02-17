@@ -28,11 +28,11 @@ cc.Class({
 
     onLoad(){
         this._super();
-        for (let i = 0; i < this.bigWinWheels.length; i++) {
-            const itemComp = this.bigWinWheels[i];
-            itemComp.setUpListAvatarIcon(this.listIconFish);
-            itemComp.setUpListTextFrame(this.listIconText);
-        }
+        // for (let i = 0; i < this.bigWinWheels.length; i++) {
+        //     const itemComp = this.bigWinWheels[i];
+        //     // itemComp.setUpListAvatarIcon(this.listIconFish);
+        //     // itemComp.setUpListTextFrame(this.listIconText);
+        // }
     },
 
     initEvents() {
@@ -135,20 +135,20 @@ cc.Class({
     playEffectFishSpecial(rewardData) {
         let fishKind = 0;
         switch (rewardData.SkillID) {
-        case GameConfig.instance.SkillConfig.LASER:
-            fishKind = GameConfig.instance.FISH_KIND.LASER_CRAB;
-            break;
-        case GameConfig.instance.SkillConfig.FISH_BOMB:
-            fishKind = GameConfig.instance.FISH_KIND.BOMB;
-            // eslint-disable-next-line no-case-declarations
-            const player = ReferenceManager.instance.getPlayerByDeskStation(rewardData.DeskStation);
-            this.onPlayEffectWinInCatchFish({
-                player: player,
-                gold: rewardData.TotalReward,
-                bet: rewardData.BulletMultiple,
-                fishKind: fishKind,
-            });
-            break;
+            case GameConfig.instance.SkillConfig.LASER:
+                fishKind = GameConfig.instance.FISH_KIND.LASER_CRAB;
+                break;
+            case GameConfig.instance.SkillConfig.FISH_BOMB:
+                fishKind = GameConfig.instance.FISH_KIND.BOMB;
+                // eslint-disable-next-line no-case-declarations
+                const player = ReferenceManager.instance.getPlayerByDeskStation(rewardData.DeskStation);
+                this.onPlayEffectWinInCatchFish({
+                    player: player,
+                    gold: rewardData.TotalReward,
+                    bet: rewardData.BulletMultiple,
+                    fishKind: fishKind,
+                });
+                break;
         }
     },
 

@@ -6,7 +6,9 @@
   "_effectAsset": {
     "__uuid__": "b9e7556a-beb9-4951-a037-ee05085df03b"
   },
-  "_defines": {},
+  "_defines": {
+    "USE_TINT": false
+  },
   "_props": {
     "brightness": 0,
     "contrast": 1

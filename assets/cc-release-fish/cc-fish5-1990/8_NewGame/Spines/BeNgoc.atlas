@@ -1,0 +1,104 @@
+
+BeNgoc.png
+size: 242,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 105, 52
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 131, 52
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 157, 52
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 183, 52
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 194, 26
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 209, 52
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Lid/Lid 1
+  rotate: false
+  xy: 194, 4
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Lid/Lid 2
+  rotate: false
+  xy: 216, 4
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Lid/Lid 3
+  rotate: false
+  xy: 220, 30
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Tray 1
+  rotate: true
+  xy: 2, 41
+  size: 35, 101
+  orig: 35, 101
+  offset: 0, 0
+  index: -1
+Tray 2
+  rotate: true
+  xy: 2, 6
+  size: 33, 96
+  orig: 33, 96
+  offset: 0, 0
+  index: -1
+Tray 3
+  rotate: false
+  xy: 100, 23
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+Tray 4
+  rotate: false
+  xy: 100, 8
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+Tray 5
+  rotate: true
+  xy: 148, 2
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1

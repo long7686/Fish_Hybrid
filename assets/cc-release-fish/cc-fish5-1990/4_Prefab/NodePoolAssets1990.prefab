@@ -25,7 +25,7 @@
       }
     ],
     "_prefab": {
-      "__id__": 54
+      "__id__": 51
     },
     "_opacity": 255,
     "_color": {
@@ -150,15 +150,15 @@
       },
       {
         "__id__": 24
-      },
+      }
+    ],
+    "fishSkeletonData": [
       {
         "__id__": 25
       },
       {
         "__id__": 26
-      }
-    ],
-    "fishSkeletonData": [
+      },
       {
         "__id__": 27
       },
@@ -224,7 +224,10 @@
       },
       {
         "__id__": 48
-      },
+      }
+    ],
+    "dragonBall": [],
+    "labelCoin": [
       {
         "__id__": 49
       },
@@ -232,18 +235,6 @@
         "__id__": 50
       }
     ],
-    "dragonBall": [],
-    "labelCoin": [
-      {
-        "__id__": 51
-      },
-      {
-        "__id__": 52
-      }
-    ],
-    "netFXMiniBoss": {
-      "__id__": 53
-    },
     "_id": ""
   },
   {
@@ -382,6 +373,13 @@
   {
     "__type__": "gfSpriteFishAsset",
     "animation": {
+      "__uuid__": "006d2347-ca4d-42ed-95c8-1f9ea9a146cd"
+    },
+    "_name": "8"
+  },
+  {
+    "__type__": "gfSpriteFishAsset",
+    "animation": {
       "__uuid__": "678d421b-f533-438c-af22-631af1ad2a7d"
     },
     "_name": "9"
@@ -392,27 +390,6 @@
       "__uuid__": "1529fa3b-5656-4f46-98ad-553cdf98c20c"
     },
     "_name": "10"
-  },
-  {
-    "__type__": "gfSpriteFishAsset",
-    "animation": {
-      "__uuid__": "205b0880-d178-4908-b467-a812331a1e48"
-    },
-    "_name": "11"
-  },
-  {
-    "__type__": "gfSpriteFishAsset",
-    "animation": {
-      "__uuid__": "19683fae-be02-438a-8f5f-aa07187c74b2"
-    },
-    "_name": "12"
-  },
-  {
-    "__type__": "gfSpriteFishAsset",
-    "animation": {
-      "__uuid__": "b8b1feee-5c82-4225-89b3-900dec88df9d"
-    },
-    "_name": "13"
   },
   {
     "__type__": "gfSpineFishAsset",
@@ -543,20 +520,6 @@
   {
     "__type__": "gfSpineFishAsset",
     "animation": {
-      "__uuid__": "f78acc3d-65f4-4a7d-a116-5531d5d2d619"
-    },
-    "_name": "43"
-  },
-  {
-    "__type__": "gfSpineFishAsset",
-    "animation": {
-      "__uuid__": "e138b934-b03c-48fe-80c6-18773cd6167a"
-    },
-    "_name": "8"
-  },
-  {
-    "__type__": "gfSpineFishAsset",
-    "animation": {
       "__uuid__": "833392cf-4c95-4a2a-87b0-01a24b0c32df"
     },
     "_name": "34"
@@ -583,6 +546,20 @@
     "_name": "37"
   },
   {
+    "__type__": "gfSpineFishAsset",
+    "animation": {
+      "__uuid__": "f78acc3d-65f4-4a7d-a116-5531d5d2d619"
+    },
+    "_name": "43"
+  },
+  {
+    "__type__": "gfSpineFishAsset",
+    "animation": {
+      "__uuid__": "8daee026-43d4-4851-84be-5af7a28d66c1"
+    },
+    "_name": "33"
+  },
+  {
     "__type__": "gfLabelCoinAsset",
     "font": {
       "__uuid__": "006f2b5d-7b6b-42a0-a169-e04e13f9af1b"
@@ -595,13 +572,6 @@
       "__uuid__": "bdf5fb9e-60ce-49e8-99d7-6046ebb9880b"
     },
     "_name": "0"
-  },
-  {
-    "__type__": "NetFXMiniBossAsset",
-    "animation": {
-      "__uuid__": "1c45bc64-3760-4fc0-9407-5f777bc5e00e"
-    },
-    "_name": "1"
   },
   {
     "__type__": "cc.PrefabInfo",

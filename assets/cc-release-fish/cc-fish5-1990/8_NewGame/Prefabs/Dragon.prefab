@@ -92,8 +92,8 @@
     "_color": {
       "__type__": "cc.Color",
       "r": 255,
-      "g": 255,
-      "b": 255,
+      "g": 0,
+      "b": 0,
       "a": 255
     },
     "_contentSize": {
@@ -232,62 +232,8 @@
     "asset": {
       "__uuid__": "10f6fd78-3c47-44f2-8a55-b16ebcc605f8"
     },
-    "fileId": "c70sYKwtRAWI3fShXsNsEF",
+    "fileId": "c7dPjTuMVIpJvt91YIorLF",
     "sync": false
-  },
-  {
-    "__type__": "3d359IVaRRIFYny/X9jixMi",
-    "_name": "",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 1
-    },
-    "_enabled": true,
-    "_maxWidth": 0,
-    "_maxHeight": 0,
-    "_offsetX": 0,
-    "_offsetY": 0,
-    "_FishID": 0,
-    "_FishKind": 0,
-    "_buildTick": 0,
-    "_isFishGroup": false,
-    "_timeLost": 0,
-    "_multiplier": 1,
-    "_isDie": false,
-    "_isOutScreen": false,
-    "_HIT_COLOR": null,
-    "_ICE_COLOR": {
-      "__type__": "cc.Color",
-      "r": 0,
-      "g": 175,
-      "b": 255,
-      "a": 255
-    },
-    "_skipRotate": false,
-    "_lastPos": null,
-    "_targetPoint": {
-      "__type__": "cc.Vec2",
-      "x": 0,
-      "y": 0
-    },
-    "_hitTime": [],
-    "_isFreezed": false,
-    "_dataCatchFish": null,
-    "_moveOutAction": null,
-    "_skipFlipY": false,
-    "_visibleSize": {
-      "__type__": "cc.Vec2",
-      "x": 0,
-      "y": 0
-    },
-    "luckyEffect": null,
-    "iceEffect": null,
-    "fishAnim": {
-      "__id__": 6
-    },
-    "_timeRemain": null,
-    "_isLoaded": false,
-    "_id": ""
   },
   {
     "__type__": "sp.Skeleton",
@@ -304,7 +250,7 @@
     ],
     "paused": false,
     "defaultSkin": "",
-    "defaultAnimation": "",
+    "defaultAnimation": "Swim In",
     "_preCacheMode": 0,
     "_cacheMode": 0,
     "loop": false,
@@ -706,6 +652,66 @@
       "width": 80,
       "height": 80
     },
+    "_id": ""
+  },
+  {
+    "__type__": "418bfND/aRObrPaMNrQ0/47",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_maxWidth": 0,
+    "_maxHeight": 0,
+    "_offsetX": 0,
+    "_offsetY": 0,
+    "_FishID": 0,
+    "_FishKind": 0,
+    "_buildTick": 0,
+    "_isFishGroup": false,
+    "_timeLost": 0,
+    "_multiplier": 1,
+    "_isDie": false,
+    "_isOutScreen": true,
+    "_HIT_COLOR": {
+      "__type__": "cc.Color",
+      "r": 230,
+      "g": 30,
+      "b": 30,
+      "a": 255
+    },
+    "_ICE_COLOR": {
+      "__type__": "cc.Color",
+      "r": 0,
+      "g": 175,
+      "b": 255,
+      "a": 255
+    },
+    "_skipRotate": false,
+    "_lastPos": null,
+    "_targetPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_hitTime": [],
+    "_isFreezed": false,
+    "_dataCatchFish": null,
+    "_moveOutAction": null,
+    "_skipFlipY": false,
+    "_visibleSize": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "luckyEffect": null,
+    "iceEffect": null,
+    "fishAnim": {
+      "__id__": 5
+    },
+    "_timeRemain": null,
+    "_isLoaded": false,
     "_id": ""
   },
   {

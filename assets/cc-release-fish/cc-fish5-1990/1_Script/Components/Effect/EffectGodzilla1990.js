@@ -1,9 +1,8 @@
-
-const EventCode = require("EventsCode1990");
 const { registerEvent, removeEvents } = require('gfUtilities');
 const ReferenceManager = require('gfReferenceManager');
 const GameConfig = require('Config1990');
 const { getPostionInOtherNode, getRandomInt } = require('utils');
+const EventCode = require("EventsCode1990");
 const Emitter = require('gfEventEmitter');
 const DataStore = require("gfDataStore");
 
@@ -53,7 +52,7 @@ cc.Class({
             const duration = plasmaEffect.getComponent(sp.Skeleton).findAnimation('animation').duration * 0.67;
             let callback = () => {
 
-                const popup = cc.instantiate(this.jackpotWinAmountPopup).getComponent('JackpotWinPopup1990');
+                const popup = cc.instantiate(this.jackpotWinAmountPopup).getComponent('gfJackpotWinPopup');
                 popup.setWinValue(data.WinAmount);
                 popup.node.parent = ReferenceManager.instance.CurrentScene;
                 popup.node.zIndex = GameConfig.instance.Z_INDEX.MENU;
@@ -91,6 +90,7 @@ cc.Class({
         });
         this._lstEffectGodzilla.push(gem);
     },
+
     playPlasmaEffect(data){
         let plasmaEffect = cc.instantiate(this.plasmaEffect);
         plasmaEffect.parent = this.node;
