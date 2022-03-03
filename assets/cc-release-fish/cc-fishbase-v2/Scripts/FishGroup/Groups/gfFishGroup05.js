@@ -33,6 +33,7 @@ class gfFishGroup5 {
         const angleOffset = FishGroupData.isFlipped() ? 180 : 0;
         for (let i = 0; i < index; ++i) {
             const data = FishGroupData.getNextFishData();
+            cc.warn(data);
             if (!data) continue;
             const startAngle = (i * angleStep + angleOffset) * Math.PI / 180;
             const x = center.x + Math.cos(startAngle) * radius;

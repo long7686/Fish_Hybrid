@@ -4,9 +4,9 @@ const { v2Distance } = require('gfUtilities');
 const GameConfig = require('gfBaseConfig');
 const FishGroupHelper = require('gfFishGroupHelper');
 const FishGroupData = require('gfFishGroupData');
-const FishGroup7 = require('gfFishGroup07');
-const FishGroup6 = require('gfFishGroup06');
-
+const FishGroupVip1 = require('FishGroupVip1');
+const FishGroupVip2 = require('FishGroupVip2');
+const FishGroupVip3 = require('FishGroupVip3');
 cc.Class({
     extends: require('gfFishGroupMgr'),
 
@@ -50,11 +50,15 @@ cc.Class({
     },
 
     createFishGroup2(){
-        FishGroup6.create();
+        FishGroupVip1.create();
     },
 
     createFishGroup3(){
-        FishGroup7.create();
+        FishGroupVip2.create();
+    },
+
+    createFishGroup4(){
+        FishGroupVip3.create();
     },
 
 });

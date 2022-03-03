@@ -5,6 +5,7 @@ const FishGroupHelper = require('gfFishGroupHelper');
 class gfFishGroup2 {
 
     static createGroup2SmallFish({ count, moveUp }) {
+        cc.warn(1);
         const distantsBorder = 185;
         const flip = FishGroupData.isFlipped();
         const offsetX = GameConfig.instance.realSize.Width / count;

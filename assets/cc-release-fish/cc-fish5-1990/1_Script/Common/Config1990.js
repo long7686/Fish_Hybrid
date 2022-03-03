@@ -7,7 +7,7 @@ const Config1990 = cc.Class({
         GameConfig.instance = this;
         this.GameId  =   "1990";
         this.IPMasterName  =   "IPMaster7";
-        this.RoomVersion =   "|3";
+        this.RoomVersion =   "|11";
         this.SceneName =  {
             Lobby: 'ktf1990Lobby',
             Game:  'ktf1990Game'
