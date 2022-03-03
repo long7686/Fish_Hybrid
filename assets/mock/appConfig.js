@@ -21,7 +21,7 @@
 let urlConstant = {
     API_URL:"https://api.staging.gemitek.dev/",
     SOCKET_URL: "wss://sock.staging.gemitek.dev",
-    USER_TOKEN: "d55c82d0226e4e17aba5a49156ebd462",
+    USER_TOKEN: "user_token",
     LOGIN_IFRAME: true,
     URL_TOKEN: 'token',
     URL_CODE: 'code',
